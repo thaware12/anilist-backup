@@ -6725,5 +6725,845 @@
     "type": "MANGA",
     "updatedAt": 1791047424,
     "volumes": 1
+  },
+  "82921": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82921,
+    "idMal": null,
+    "popularity": 101,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u3082\u3061\u3083\u541b\u3068\u304a\u306d\u3048\u3055\u3093",
+      "romaji": "Omocha-kun to Onee-san"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613064,
+    "volumes": null
+  },
+  "82923": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82923,
+    "idMal": 52923,
+    "popularity": 16,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5bb6\u65cf\u30ce\u59e6\u6deb",
+      "romaji": "Kazoku no Kanin"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613063,
+    "volumes": 1
+  },
+  "82925": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82925,
+    "idMal": 52925,
+    "popularity": 21,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3061\u3061\u30da\u30bf\u6bcd\u5a18\u4e3c",
+      "romaji": "Chichi Peta Oyakodon"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613063,
+    "volumes": 1
+  },
+  "82927": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82927,
+    "idMal": 52927,
+    "popularity": 14,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5bb6\u65cf\u3067\u30a4\u3053\u3046\u3088!",
+      "romaji": "Kazoku de Ikou yo!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613063,
+    "volumes": 1
+  },
+  "82929": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82929,
+    "idMal": 52929,
+    "popularity": 17,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d14\u60c5\u6deb\u6c41",
+      "romaji": "Junjou Inju"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613063,
+    "volumes": 1
+  },
+  "82931": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82931,
+    "idMal": 52931,
+    "popularity": 58,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5c71\u4e39\u82b1\u306e\u5f69 -\u900f\u5b50-",
+      "romaji": "Yama Hime no Mi: Touko"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791753570,
+    "volumes": 1
+  },
+  "82933": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82933,
+    "idMal": 52933,
+    "popularity": 40,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u53d6\u5f15\u2026",
+      "romaji": "Torihiki..."
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671598,
+    "volumes": null
+  },
+  "82935": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82935,
+    "idMal": 52935,
+    "popularity": 43,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3057\u3042\u308f\u305b",
+      "romaji": "Shiawase"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613062,
+    "volumes": null
+  },
+  "82937": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82937,
+    "idMal": 52937,
+    "popularity": 55,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6b32\u671b\u306e\u5728\u51e6\u2026",
+      "romaji": "Yokubou no Arika..."
+    },
+    "type": "MANGA",
+    "updatedAt": 1792513279,
+    "volumes": null
+  },
+  "82939": {
+    "averageScore": null,
+    "chapters": 13,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82939,
+    "idMal": 52939,
+    "popularity": 30,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3068\u306a\u308a\u306e\u304a\u59c9\u3055\u3093",
+      "romaji": "Tonari no Onee-san"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613062,
+    "volumes": 1
+  },
+  "82941": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82941,
+    "idMal": 52941,
+    "popularity": 26,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u7236\u3055\u3093\u3054\u3081\u3093\u306a\u3055\u3044\u3002",
+      "romaji": "Otou-san Gomennasai."
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613062,
+    "volumes": 1
+  },
+  "82943": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82943,
+    "idMal": 52943,
+    "popularity": 37,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3044\u3058\u3089\u308c\u7cfb\u3002",
+      "romaji": "Ijirare Kei."
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613062,
+    "volumes": 1
+  },
+  "82945": {
+    "averageScore": null,
+    "chapters": 2,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82945,
+    "idMal": null,
+    "popularity": 28,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "Happy Birthday",
+      "romaji": "Happy Birthday"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791822941,
+    "volumes": null
+  },
+  "82947": {
+    "averageScore": null,
+    "chapters": 30,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82947,
+    "idMal": 52947,
+    "popularity": 33,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3084\u308a\u305f\u3044\u30b5\u30a4\u30c8",
+      "romaji": "Yaritai Site"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791753569,
+    "volumes": 3
+  },
+  "82949": {
+    "averageScore": null,
+    "chapters": 12,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82949,
+    "idMal": 52949,
+    "popularity": 39,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u59c9\u3068\u3044\u3062\u3089\u308c\u7537\u306e\u5a18",
+      "romaji": "Ane to Idirare Otoko no Ko"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613061,
+    "volumes": 1
+  },
+  "82951": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82951,
+    "idMal": null,
+    "popularity": 91,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3054\u3068\u30fc\u3061\u2606\u3054\u307b\u30fc\u3057",
+      "romaji": "Gotouchi\u2606Gohoushi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792706575,
+    "volumes": null
+  },
+  "82953": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82953,
+    "idMal": null,
+    "popularity": 74,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d17\u679d1\u25cb\u6b73",
+      "romaji": "Sae 1\u25cb-sai"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792742530,
+    "volumes": null
+  },
+  "82955": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82955,
+    "idMal": null,
+    "popularity": 21,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5149\u6a39\u304f\u3093\u306e\u5909\u5bb9",
+      "romaji": "Kouki-kun no Henyou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613061,
+    "volumes": null
+  },
+  "82957": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82957,
+    "idMal": 52957,
+    "popularity": 70,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d2\u30ca\u3061\u3083\u3093\u3068\u305f\u306e\u3057\u30fc \u3053\u3068!",
+      "romaji": "Hina-chan to Tanoshii Koto!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791994098,
+    "volumes": null
+  },
+  "82959": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82959,
+    "idMal": 52959,
+    "popularity": 26,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d0\u30fc\u30b9\u30c7\u30a4\u306e\u8d08\u7269",
+      "romaji": "Birthday no Okurimono"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613061,
+    "volumes": null
+  },
+  "82961": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82961,
+    "idMal": 52961,
+    "popularity": 20,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c8\u30ed\u30a4\u30ce\u30e2\u30af\u30d0",
+      "romaji": "Toroi no Mokuba"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671597,
+    "volumes": null
+  },
+  "82963": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82963,
+    "idMal": 52963,
+    "popularity": 16,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5deb\u5973\u306b\u3057\u3066\u3042\u3052\u308b",
+      "romaji": "Miko ni Shite Ageru"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613061,
+    "volumes": null
+  },
+  "82965": {
+    "averageScore": null,
+    "chapters": 11,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82965,
+    "idMal": 52965,
+    "popularity": 35,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u4e16\u754c\u3067\u4e00\u756a\u597d\u304d\u306a\u4eba\u59bb",
+      "romaji": "Sekai de Ichiban Suki na Hitozuma"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613060,
+    "volumes": 1
+  },
+  "82967": {
+    "averageScore": null,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82967,
+    "idMal": 52967,
+    "popularity": 19,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6c17\u307e\u3050\u308c\u30ca\u30fc\u30aa",
+      "romaji": "Kimagure Nao"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613060,
+    "volumes": null
+  },
+  "82969": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82969,
+    "idMal": 52969,
+    "popularity": 35,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30ea\u30b9\u72e9\u308a",
+      "romaji": "Alice Kari"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791302286,
+    "volumes": 1
+  },
+  "82971": {
+    "averageScore": null,
+    "chapters": 13,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82971,
+    "idMal": 52971,
+    "popularity": 23,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u4e59\u5973\u306e\u60aa\u622f",
+      "romaji": "Otome no Itazura"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613060,
+    "volumes": 1
+  },
+  "82973": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82973,
+    "idMal": 52973,
+    "popularity": 28,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u95c7\u306e\u56fd\u306e\u30a2\u30ea\u30b9",
+      "romaji": "Yami no Kuni no Alice"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792256851,
+    "volumes": 1
+  },
+  "82975": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82975,
+    "idMal": 52975,
+    "popularity": 52,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u75f4\u5973\uff5e\u6d3e",
+      "romaji": "Chijo-ha"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791561190,
+    "volumes": 1
+  },
+  "82977": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82977,
+    "idMal": 52977,
+    "popularity": 50,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "STEP BY STEP",
+      "romaji": "Step by Step"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613060,
+    "volumes": null
+  },
+  "82979": {
+    "averageScore": null,
+    "chapters": 84,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82979,
+    "idMal": 52979,
+    "popularity": 56,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8997\u3044\u3066\u306f\u3044\u3051\u306a\u3044",
+      "romaji": "Nozoite wa Ikenai"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792260130,
+    "volumes": 10
+  },
+  "82981": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82981,
+    "idMal": 52981,
+    "popularity": 46,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6559\u3048\u3066\u304f\u3060\u3055\u3044\uff01",
+      "romaji": "Oshiete Kudasai!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613060,
+    "volumes": null
+  },
+  "82983": {
+    "averageScore": null,
+    "chapters": 11,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82983,
+    "idMal": 52983,
+    "popularity": 85,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d14\u6f54\u306e\u7d42\u308f\u308b\u65e5\u3005\u2026",
+      "romaji": "Junketsu no Owaru Hibi..."
+    },
+    "type": "MANGA",
+    "updatedAt": 1792442916,
+    "volumes": 1
+  },
+  "82985": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82985,
+    "idMal": 52985,
+    "popularity": 30,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3048\u3063\u3061\u2661\u306e\u5408\u56f3",
+      "romaji": "Ecchi\u2661no Aizu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791302285,
+    "volumes": null
+  },
+  "82987": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82987,
+    "idMal": null,
+    "popularity": 23,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b9\u30ea\u30eb",
+      "romaji": "Thrill"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613060,
+    "volumes": null
+  },
+  "82989": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82989,
+    "idMal": 100912,
+    "popularity": 69,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5c11\u5973\u60e8\u83ef",
+      "romaji": "Shoujo Sanka"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613060,
+    "volumes": 1
+  },
+  "82991": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82991,
+    "idMal": 52991,
+    "popularity": 83,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d7\u30c3\u30b7\u30aa\u30fc\u30d0\u30fc",
+      "romaji": "Pushover"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671596,
+    "volumes": null
+  },
+  "82993": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82993,
+    "idMal": null,
+    "popularity": 14,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u306e\u3042\u3071\u3093\u3089\u3044\u3075",
+      "romaji": "Noa Pan Life"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613059,
+    "volumes": null
+  },
+  "82995": {
+    "averageScore": null,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82995,
+    "idMal": 52995,
+    "popularity": 50,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b7\u30ed\u30af\u30edLOVER",
+      "romaji": "Shiro Kuro Lover"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791302285,
+    "volumes": null
+  },
+  "82997": {
+    "averageScore": null,
+    "chapters": 11,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82997,
+    "idMal": 52997,
+    "popularity": 50,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u59c9\u5f1f\u4e2d\u6bd2 ~Sister Holic~",
+      "romaji": "Kyoudai Chuudoku: Sister Holic"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791753566,
+    "volumes": 1
+  },
+  "82999": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 82999,
+    "idMal": 52999,
+    "popularity": 58,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5965\u69d8\u306f\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb",
+      "romaji": "Oku-sama wa Bunny Girl"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792442915,
+    "volumes": null
   }
 }
