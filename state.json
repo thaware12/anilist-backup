@@ -1,5 +1,5 @@
 {
-  "last_success_at": 1792761433,
+  "last_success_at": 1792761622,
   "last_updated_at": 1792751669,
   "max_target_id": 218739,
   "outage_since": 0,
@@ -8,5 +8,5 @@
   "refresh_last_id": 0,
   "schema_version": 2,
   "seed_complete": false,
-  "seed_last_id": 159676
+  "seed_last_id": 163429
 }
