@@ -1,0 +1,4410 @@
+{
+  "11001": {
+    "averageScore": 75,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "id": 11001,
+    "idMal": 11001,
+    "popularity": 5421,
+    "status": "FINISHED",
+    "title": {
+      "english": "Library War: The Wings of Revolution",
+      "native": "\u56f3\u66f8\u9928\u6226\u4e89 \u9769\u547d\u306e\u3064\u3070\u3055",
+      "romaji": "Toshokan Sensou: Kakumei no Tsubasa"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675274,
+    "volumes": null
+  },
+  "11005": {
+    "averageScore": 52,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Ecchi",
+      "Supernatural"
+    ],
+    "id": 11005,
+    "idMal": 11005,
+    "popularity": 8993,
+    "status": "FINISHED",
+    "title": {
+      "english": "Holy Knight",
+      "native": "Holy Knight (\u30db\u30fc\u30ea\u30fc\u30ca\u30a4\u30c8)",
+      "romaji": "Holy Knight"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792735322,
+    "volumes": null
+  },
+  "11009": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11009,
+    "idMal": 11009,
+    "popularity": 2139,
+    "status": "FINISHED",
+    "title": {
+      "english": "Pok\u00e9mon 4D: Pikachu's Ocean Adventure",
+      "native": "\u30d4\u30ab\u30c1\u30e5\u30a6\u306e\u6d77\u6d0b\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+      "romaji": "Pikachu no Kaiyou Adventure"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675274,
+    "volumes": null
+  },
+  "11013": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 11013,
+    "idMal": 11013,
+    "popularity": 95614,
+    "status": "FINISHED",
+    "title": {
+      "english": "Inu X Boku Secret Service",
+      "native": "\u5996\u72d0\u00d7\u50d5SS",
+      "romaji": "Inu \u00d7 Boku SS"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742430,
+    "volumes": null
+  },
+  "11017": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 50,
+    "format": "TV",
+    "genres": [
+      "Action"
+    ],
+    "id": 11017,
+    "idMal": 11017,
+    "popularity": 910,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d0\u30c8\u30eb\u30b9\u30d4\u30ea\u30c3\u30c4 \u8987\u738b\uff08\u30d2\u30fc\u30ed\u30fc\u30ba\uff09",
+      "romaji": "Battle Spirits: Heroes"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364480,
+    "volumes": null
+  },
+  "11019": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11019,
+    "idMal": 11019,
+    "popularity": 2001,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30dd\u30b1\u30e2\u30f3\uff13\uff24\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u3000\u30df\u30e5\u30a6\u3092\u63a2\u305b\uff01",
+      "romaji": "Pok\u00e9mon 3D Adventure: Mew wo Sagase!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675273,
+    "volumes": null
+  },
+  "11021": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 24,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11021,
+    "idMal": 11021,
+    "popularity": 19750,
+    "status": "FINISHED",
+    "title": {
+      "english": "Muv-Luv Alternative: Total Eclipse",
+      "native": "\u30de\u30d6\u30e9\u30f4 \u30aa\u30eb\u30bf\u30cd\u30a4\u30c6\u30a3\u30f4 \u30c8\u30fc\u30bf\u30eb\u30fb\u30a4\u30af\u30ea\u30d7\u30b9",
+      "romaji": "Muv-Luv Alternative: Total Eclipse"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749691,
+    "volumes": null
+  },
+  "11031": {
+    "averageScore": 59,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai",
+      "Supernatural"
+    ],
+    "id": 11031,
+    "idMal": 11031,
+    "popularity": 1531,
+    "status": "FINISHED",
+    "title": {
+      "english": "Vampires",
+      "native": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2",
+      "romaji": "Vampire"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675273,
+    "volumes": null
+  },
+  "11033": {
+    "averageScore": 70,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MUSIC",
+    "genres": [
+      "Music"
+    ],
+    "id": 11033,
+    "idMal": 11033,
+    "popularity": 5143,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u590f\u8272\u3048\u304c\u304a\u30671,2,Jump!",
+      "romaji": "Natsuiro Egao de 1, 2, Jump!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468572,
+    "volumes": null
+  },
+  "11043": {
+    "averageScore": 45,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "id": 11043,
+    "idMal": 11043,
+    "popularity": 333,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5370\u30b9\u30c8\u30fc\u30eb",
+      "romaji": "Install Pilot"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468572,
+    "volumes": null
+  },
+  "11049": {
+    "averageScore": 48,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "id": 11049,
+    "idMal": 11049,
+    "popularity": 309,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u65b0\u30e1\u30a4\u30d7\u30eb\u30bf\u30a6\u30f3\u7269\u8a9e \u30d1\u30fc\u30e0\u30bf\u30a6\u30f3\u7de8 \u3053\u3093\u306b\u3061\u306f! \u65b0\u3057\u3044\u753a",
+      "romaji": "Shin Maple Town Monogatari: Palm Town-hen - Konnichiwa! Atarashii Machi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675272,
+    "volumes": null
+  },
+  "11053": {
+    "averageScore": 70,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11053,
+    "idMal": 11053,
+    "popularity": 2960,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u3068\u5947\u8de1\u306e\u5cf6 \uff5e\u30a2\u30cb\u30de\u30eb \u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\uff5e",
+      "romaji": "Doraemon: Nobita to Kiseki no Shima - Animal Adventure"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792735322,
+    "volumes": null
+  },
+  "11061": {
+    "averageScore": 89,
+    "chapters": null,
+    "episodes": 148,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "id": 11061,
+    "idMal": 11061,
+    "popularity": 851294,
+    "status": "FINISHED",
+    "title": {
+      "english": "Hunter x Hunter (2011)",
+      "native": "HUNTER\u00d7HUNTER (2011)",
+      "romaji": "HUNTER\u00d7HUNTER (2011)"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749628,
+    "volumes": null
+  },
+  "11065": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11065,
+    "idMal": 11065,
+    "popularity": 2335,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5c11\u4ea4\u5973 THE ANIMATION",
+      "romaji": "Shoukoujo THE ANIMATION"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675245,
+    "volumes": null
+  },
+  "11067": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11067,
+    "idMal": 11067,
+    "popularity": 2090,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u3063\u3071\u3044\u30cf\u30fc\u30c8\uff5e\u5f7c\u5973\u306f\u30b1\u30c0\u30e2\u30ce\u767a\u60c5\u671f\u30c3!?\uff5e",
+      "romaji": "Oppai Heart: Kanojo wa Kedamono Hatsujouki!?"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675244,
+    "volumes": null
+  },
+  "11069": {
+    "averageScore": 57,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11069,
+    "idMal": 11069,
+    "popularity": 1862,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d4\u30ab\u30c1\u30e5\u30a6\u306e\u3075\u3057\u304e\u306a\u3075\u3057\u304e\u306a\u5927\u5192\u967a",
+      "romaji": "Pikachu no Fushigi na Fushigi na Daibouken"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364297,
+    "volumes": null
+  },
+  "11077": {
+    "averageScore": 68,
+    "chapters": null,
+    "episodes": 3,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Horror",
+      "Supernatural"
+    ],
+    "id": 11077,
+    "idMal": 11077,
+    "popularity": 25739,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "HELLSING\uff1aTHE DAWN",
+      "romaji": "HELLSING: THE DAWN"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792738914,
+    "volumes": null
+  },
+  "11079": {
+    "averageScore": 66,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11079,
+    "idMal": 11079,
+    "popularity": 32754,
+    "status": "FINISHED",
+    "title": {
+      "english": "Kill Me Baby",
+      "native": "\u30ad\u30eb\u30df\u30fc\u30d9\u30a4\u30d9\u30fc",
+      "romaji": "Kill Me Baby"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11087": {
+    "averageScore": 43,
+    "chapters": null,
+    "episodes": 2,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11087,
+    "idMal": 11087,
+    "popularity": 539,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "AWAKE",
+      "romaji": "AWAKE"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528189,
+    "volumes": null
+  },
+  "11093": {
+    "averageScore": 51,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Adventure",
+      "Music",
+      "Mystery"
+    ],
+    "id": 11093,
+    "idMal": 11093,
+    "popularity": 757,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "ZIGGY \u305d\u308c\u3086\u3051!R&R BAND",
+      "romaji": "ZIGGY Soreyuke! R&R BAND"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364292,
+    "volumes": null
+  },
+  "11095": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Adventure"
+    ],
+    "id": 11095,
+    "idMal": 11095,
+    "popularity": 118,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8c61\u5217\u8eca\u304c\u3084\u3063\u3066\u304d\u305f",
+      "romaji": "Zouressha ga Yatte Kita"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792107445,
+    "volumes": null
+  },
+  "11097": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Drama"
+    ],
+    "id": 11097,
+    "idMal": 11097,
+    "popularity": 193,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8c61\u306e\u3044\u306a\u3044\u52d5\u7269\u5712",
+      "romaji": "Zou no Inai Doubutsuen"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364292,
+    "volumes": null
+  },
+  "11099": {
+    "averageScore": 58,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "id": 11099,
+    "idMal": 11099,
+    "popularity": 2830,
+    "status": "FINISHED",
+    "title": {
+      "english": "Tiger & Bunny Pilot",
+      "native": "TIGER & BUNNY \uff08\u30bf\u30a4\u30ac\u30fc\u30fb\u30a2\u30f3\u30c9\u30fb\u30d0\u30cb\u30fc\uff09",
+      "romaji": "TIGER & BUNNY Pilot"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528188,
+    "volumes": null
+  },
+  "11101": {
+    "averageScore": 65,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 11101,
+    "idMal": 11101,
+    "popularity": 517,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u708e\u306e\u30a2\u30eb\u30da\u30f3\u30ed\u30fc\u30bc",
+      "romaji": "Honoo no Alpen Rose"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792695771,
+    "volumes": null
+  },
+  "11103": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 10,
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11103,
+    "idMal": 11103,
+    "popularity": 3607,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6b66\u88c5\u795e\u59eb Moon Angel",
+      "romaji": "Busou Shinki: Moon Angel"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792717340,
+    "volumes": null
+  },
+  "11111": {
+    "averageScore": 71,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "id": 11111,
+    "idMal": 11111,
+    "popularity": 389421,
+    "status": "FINISHED",
+    "title": {
+      "english": "Another",
+      "native": "\u30a2\u30ca\u30b6\u30fc",
+      "romaji": "Another"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742447,
+    "volumes": null
+  },
+  "11113": {
+    "averageScore": 76,
+    "chapters": null,
+    "episodes": 4,
+    "format": "SPECIAL",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 11113,
+    "idMal": 11113,
+    "popularity": 16491,
+    "status": "FINISHED",
+    "title": {
+      "english": "Bunny Drop Specials",
+      "native": "\u3046\u3055\u304e\u30c9\u30ed\u30c3\u30d7 \u30df\u30cb\u30b9\u30c8\u30fc\u30ea\u30fc",
+      "romaji": "Usagi Drop Mini Story"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675238,
+    "volumes": null
+  },
+  "11123": {
+    "averageScore": 73,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 11123,
+    "idMal": 11123,
+    "popularity": 22275,
+    "status": "FINISHED",
+    "title": {
+      "english": "Sekai Ichi Hatsukoi - The World's Greatest First Love Season 2",
+      "native": "\u4e16\u754c\u4e00\u521d\u604b 2",
+      "romaji": "Sekaiichi Hatsukoi 2"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792681356,
+    "volumes": null
+  },
+  "11135": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": 4,
+    "format": "OVA",
+    "genres": [
+      "Drama"
+    ],
+    "id": 11135,
+    "idMal": 11135,
+    "popularity": 14078,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9 \u30c1\u30e3\u30a4\u30eb\u30c9",
+      "romaji": "Hybrid Child"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675238,
+    "volumes": null
+  },
+  "11141": {
+    "averageScore": 35,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action"
+    ],
+    "id": 11141,
+    "idMal": 11141,
+    "popularity": 507,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\ube14\ub8e8\uc2dc\uac78",
+      "romaji": "Blue Seagull"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675238,
+    "volumes": null
+  },
+  "11161": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 11161,
+    "idMal": 11161,
+    "popularity": 6957,
+    "status": "FINISHED",
+    "title": {
+      "english": "A Bridge to the Starry Skies OVA",
+      "native": "\u661f\u7a7a\u3078\u67b6\u304b\u308b\u6a4b",
+      "romaji": "Hoshizora e Kakaru Hashi OVA"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675238,
+    "volumes": null
+  },
+  "11177": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 52,
+    "format": "TV_SHORT",
+    "genres": [
+      "Adventure"
+    ],
+    "id": 11177,
+    "idMal": 11177,
+    "popularity": 2706,
+    "status": "FINISHED",
+    "title": {
+      "english": "B-Daman Crossfire",
+      "native": "\u30af\u30ed\u30b9\u30d5\u30a1\u30a4\u30c8 \u30d3\u30fc\u30c0\u30de\u30f3",
+      "romaji": "Cross Fight B-Daman"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792735322,
+    "volumes": null
+  },
+  "11179": {
+    "averageScore": 68,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 11179,
+    "idMal": 11179,
+    "popularity": 41305,
+    "status": "FINISHED",
+    "title": {
+      "english": "Listen to Me, Girls. I Am Your Father!",
+      "native": "\u30d1\u30d1\u306e\u3044\u3046\u3053\u3068\u3092\u805e\u304d\u306a\u3055\u3044\uff01",
+      "romaji": "Papa no Iukoto wo Kikinasai!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749730,
+    "volumes": null
+  },
+  "11185": {
+    "averageScore": 53,
+    "chapters": null,
+    "episodes": 4,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11185,
+    "idMal": 11185,
+    "popularity": 2603,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8831\u60d1\u306e\u523b",
+      "romaji": "Kowaku no Toki"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675237,
+    "volumes": null
+  },
+  "11189": {
+    "averageScore": 47,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MUSIC",
+    "genres": [],
+    "id": 11189,
+    "idMal": 11189,
+    "popularity": 388,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "pair*",
+      "romaji": "pair*"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364227,
+    "volumes": null
+  },
+  "11197": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 30,
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11197,
+    "idMal": 11197,
+    "popularity": 144,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30af\u30de\u306e\u30d7\u30fc\u592a\u90ce",
+      "romaji": "Kuma no Puutarou"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364227,
+    "volumes": null
+  },
+  "11203": {
+    "averageScore": 46,
+    "chapters": null,
+    "episodes": 104,
+    "format": "TV_SHORT",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "id": 11203,
+    "idMal": 11203,
+    "popularity": 220,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3078\u308d\u3078\u308d\u304f\u3093",
+      "romaji": "Hero Hero-kun"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364227,
+    "volumes": null
+  },
+  "11209": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Ecchi"
+    ],
+    "id": 11209,
+    "idMal": 11209,
+    "popularity": 16577,
+    "status": "FINISHED",
+    "title": {
+      "english": "Maken-Ki! OVA",
+      "native": "\u30de\u30b1\u30f3\u59eb\u3063\uff01 OVA",
+      "romaji": "Maken-Ki! OVA"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749730,
+    "volumes": null
+  },
+  "11213": {
+    "averageScore": 47,
+    "chapters": null,
+    "episodes": 260,
+    "format": "TV_SHORT",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "id": 11213,
+    "idMal": 11213,
+    "popularity": 274,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u661f\u306e\u5b50\u30dd\u30ed\u30f3",
+      "romaji": "Hoshi no Ko Poron"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528141,
+    "volumes": null
+  },
+  "11221": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "id": 11221,
+    "idMal": 11221,
+    "popularity": 1990,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "Radio City Fantasy \u8857\u89d2\u306e\u30e1\u30eb\u30d8\u30f3",
+      "romaji": "Radio City Fantasy: Machikado no M\u00e4rchen"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675236,
+    "volumes": null
+  },
+  "11227": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mecha"
+    ],
+    "id": 11227,
+    "idMal": 11227,
+    "popularity": 20251,
+    "status": "FINISHED",
+    "title": {
+      "english": "Lagrange: The Flower of Rin-ne",
+      "native": "\u8f2a\u5efb\u306e\u30e9\u30b0\u30e9\u30f3\u30b8\u30a7",
+      "romaji": "Rinne no Lagrange"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792738914,
+    "volumes": null
+  },
+  "11235": {
+    "averageScore": 71,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 11235,
+    "idMal": 11235,
+    "popularity": 38518,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30de\u30ac\u30dfSS+ plus",
+      "romaji": "Amagami SS+ plus"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792738914,
+    "volumes": null
+  },
+  "11237": {
+    "averageScore": 77,
+    "chapters": null,
+    "episodes": 2,
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 11237,
+    "idMal": 11237,
+    "popularity": 6251,
+    "status": "FINISHED",
+    "title": {
+      "english": "Hidamari Sketch x SP",
+      "native": "\u3072\u3060\u307e\u308a\u30b9\u30b1\u30c3\u30c1\u00d7SP",
+      "romaji": "Hidamari Sketch \u00d7 SP"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11239": {
+    "averageScore": 80,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 11239,
+    "idMal": 11239,
+    "popularity": 9113,
+    "status": "FINISHED",
+    "title": {
+      "english": "Hidamari Sketch x Honeycomb",
+      "native": "\u3072\u3060\u307e\u308a\u30b9\u30b1\u30c3\u30c1\u00d7\u30cf\u30cb\u30ab\u30e0",
+      "romaji": "Hidamari Sketch \u00d7 Honeycomb"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11241": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "id": 11241,
+    "idMal": 11241,
+    "popularity": 23019,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d6\u30ec\u30a4\u30d6\u30fb\u30c6\u30f3",
+      "romaji": "Brave 10"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792738914,
+    "volumes": null
+  },
+  "11245": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 52,
+    "format": "TV",
+    "genres": [],
+    "id": 11245,
+    "idMal": 11245,
+    "popularity": 297,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u307e\u3093\u304c\u65e5\u672c\u53f2",
+      "romaji": "Manga Nihonshi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364200,
+    "volumes": null
+  },
+  "11255": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Ecchi"
+    ],
+    "id": 11255,
+    "idMal": 11255,
+    "popularity": 5742,
+    "status": "FINISHED",
+    "title": {
+      "english": "Ikki Tousen: Shugaku Toshi Keppu-roku",
+      "native": "\u4e00\u9a0e\u5f53\u5343 \u96c6\u9354\u95d8\u58eb\u8840\u98a8\u9332",
+      "romaji": "Ikkitousen: Shuugaku Toushi Keppuuroku"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792710154,
+    "volumes": null
+  },
+  "11266": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "id": 11266,
+    "idMal": 11266,
+    "popularity": 28779,
+    "status": "FINISHED",
+    "title": {
+      "english": "Blue Exorcist: Runaway Kuro",
+      "native": "\u9752\u306e\u7953\u9b54\u5e2b \u30af\u30ed\u306e\u5bb6\u51fa",
+      "romaji": "Ao no Exorcist: Kuro no Iede"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792710154,
+    "volumes": null
+  },
+  "11268": {
+    "averageScore": 58,
+    "chapters": null,
+    "episodes": 103,
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11268,
+    "idMal": 11268,
+    "popularity": 614,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5143\u7956\u5929\u624d\u30d0\u30ab\u30dc\u30f3",
+      "romaji": "Ganso Tensai Bakabon"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792455082,
+    "volumes": null
+  },
+  "11269": {
+    "averageScore": 44,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11269,
+    "idMal": 11269,
+    "popularity": 494,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u9b54\u72ac\u30e9\u30a4\u30ca\u30fc\uff10\uff10\uff11\uff11\u5909\u8eab\u305b\u3088",
+      "romaji": "Maken Liner 0011 Henshin Seyo!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528133,
+    "volumes": null
+  },
+  "11275": {
+    "averageScore": 57,
+    "chapters": null,
+    "episodes": 52,
+    "format": "TV",
+    "genres": [
+      "Adventure"
+    ],
+    "id": 11275,
+    "idMal": 11275,
+    "popularity": 443,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8d64\u80f4\u9234\u4e4b\u52a9",
+      "romaji": "Akadou Suzunosuke"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364190,
+    "volumes": null
+  },
+  "11281": {
+    "averageScore": 55,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mecha"
+    ],
+    "id": 11281,
+    "idMal": 11281,
+    "popularity": 462,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6b66\u8005\u30b1\u30ed\u3000\u304a\u62ab\u9732\u76ee\uff01\u6226\u56fd\u30e9\u30f3\u661f\u5927\u30d0\u30c8\u30eb\uff01\uff01",
+      "romaji": "Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468425,
+    "volumes": null
+  },
+  "11285": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 8,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "id": 11285,
+    "idMal": 11285,
+    "popularity": 69528,
+    "status": "FINISHED",
+    "title": {
+      "english": "Black Rock Shooter",
+      "native": "\u30d6\u30e9\u30c3\u30af\u2605\u30ed\u30c3\u30af\u30b7\u30e5\u30fc\u30bf\u30fc (TV)",
+      "romaji": "Black\u2605Rock Shooter (TV)"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749730,
+    "volumes": null
+  },
+  "11299": {
+    "averageScore": 60,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Mecha"
+    ],
+    "id": 11299,
+    "idMal": 11299,
+    "popularity": 717,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b1\u30ed\uff10\u3000\u51fa\u767a\u3060\u3088\uff01\u5168\u54e1\u96c6\u5408\uff01\uff01",
+      "romaji": "Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792695771,
+    "volumes": null
+  },
+  "11307": {
+    "averageScore": 58,
+    "chapters": null,
+    "episodes": 26,
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "id": 11307,
+    "idMal": 11307,
+    "popularity": 646,
+    "status": "FINISHED",
+    "title": {
+      "english": "Once Upon a Time... Space",
+      "native": "\u9280\u6cb3\u30d1\u30c8\u30ed\u30fc\u30ebPJ",
+      "romaji": "Ginga Patrol PJ"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364173,
+    "volumes": null
+  },
+  "11313": {
+    "averageScore": 68,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 11313,
+    "idMal": 11313,
+    "popularity": 9904,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u541b\u306e\u3044\u308b\u753a \u9ec4\u660f\u4ea4\u5dee\u70b9",
+      "romaji": "Kimi no Iru Machi: Tasogare Kousaten"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792719169,
+    "volumes": null
+  },
+  "11319": {
+    "averageScore": 70,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 11319,
+    "idMal": 11319,
+    "popularity": 78134,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Familiar of Zero F",
+      "native": "\u30bc\u30ed\u306e\u4f7f\u3044\u9b54F",
+      "romaji": "Zero no Tsukaima F"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742425,
+    "volumes": null
+  },
+  "11321": {
+    "averageScore": 68,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai",
+      "Romance"
+    ],
+    "id": 11321,
+    "idMal": 11321,
+    "popularity": 7017,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u59c9SUMMER!",
+      "romaji": "Nee SUMMER!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792719169,
+    "volumes": null
+  },
+  "11339": {
+    "averageScore": 68,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 11339,
+    "idMal": 11339,
+    "popularity": 6065,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "A\u30c1\u30e3\u30f3\u30cd\u30eb +smile",
+      "romaji": "A-Channel: A-Channel+smile"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792719169,
+    "volumes": null
+  },
+  "11341": {
+    "averageScore": 71,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "id": 11341,
+    "idMal": 11341,
+    "popularity": 5712,
+    "status": "FINISHED",
+    "title": {
+      "english": "Detective Opera Milky Holmes 2",
+      "native": "\u63a2\u5075\u30aa\u30da\u30e9 \u30df\u30eb\u30ad\u30a3\u30db\u30fc\u30e0\u30ba \u7b2c2\u5e55",
+      "romaji": "Tantei Opera Milky Holmes Dai 2 Maku"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792706575,
+    "volumes": null
+  },
+  "11349": {
+    "averageScore": 60,
+    "chapters": null,
+    "episodes": 3,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11349,
+    "idMal": 11349,
+    "popularity": 2735,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u305d\u308c\u3067\u3082\u59bb\u3092\u611b\u3057\u3066\u308b",
+      "romaji": "Soredemo Tsuma wo Aishiteru"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528107,
+    "volumes": null
+  },
+  "11355": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 11355,
+    "idMal": 11355,
+    "popularity": 5888,
+    "status": "FINISHED",
+    "title": {
+      "english": "This Boy Can Fight Aliens",
+      "native": "\u3053\u306e\u7537\u5b50\u3001\u5b87\u5b99\u4eba\u3068\u6226\u3048\u307e\u3059\u3002",
+      "romaji": "Kono Danshi, Uchuujin to Tatakaemasu."
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528105,
+    "volumes": null
+  },
+  "11357": {
+    "averageScore": 30,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11357,
+    "idMal": 11357,
+    "popularity": 578,
+    "status": "FINISHED",
+    "title": {
+      "english": "Space Transformers",
+      "native": "\ub9c8\uc774\ud06c\ub85c \ud2b9\uacf5\ub300 \ub2e4\uc774\uc57c\ud2b8\ub860 5",
+      "romaji": "Micro Teukgongdae Diatron 5"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364145,
+    "volumes": null
+  },
+  "11359": {
+    "averageScore": 73,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "id": 11359,
+    "idMal": 11359,
+    "popularity": 15542,
+    "status": "FINISHED",
+    "title": {
+      "english": "Dragon Ball Z Kai: Peace for the Future! The Spirit of Goku is Forever",
+      "native": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u6539 \u672a\u6765\u306b\u5e73\u548c\u3092\uff01\u609f\u7a7a\u306e\u9b42\u3088\u6c38\u9060\u306b",
+      "romaji": "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742530,
+    "volumes": null
+  },
+  "11371": {
+    "averageScore": 72,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sports"
+    ],
+    "id": 11371,
+    "idMal": 11371,
+    "popularity": 12410,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Prince of Tennis II",
+      "native": "\u65b0\u30c6\u30cb\u30b9\u306e\u738b\u5b50\u69d8",
+      "romaji": "Shin Tennis no Ouji-sama"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792692163,
+    "volumes": null
+  },
+  "11375": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "id": 11375,
+    "idMal": 11375,
+    "popularity": 4167,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": ".hack//The Movie \u30bb\u30ab\u30a4\u306e\u5411\u3053\u3046\u306b",
+      "romaji": ".hack//The Movie: Sekai no Mukou ni"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675230,
+    "volumes": null
+  },
+  "11385": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 25,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "id": 11385,
+    "idMal": 11385,
+    "popularity": 6757,
+    "status": "FINISHED",
+    "title": {
+      "english": "Digimon Xros Wars: The Young Hunters Who Leapt Through Time",
+      "native": "\u30c7\u30b8\u30e2\u30f3\u30af\u30ed\u30b9\u30a6\u30a9\u30fc\u30ba \u6642\u3092\u99c6\u3051\u308b\u5c11\u5e74\u30cf\u30f3\u30bf\u30fc\u305f\u3061",
+      "romaji": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792676967,
+    "volumes": null
+  },
+  "11405": {
+    "averageScore": 51,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "id": 11405,
+    "idMal": 11405,
+    "popularity": 482,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b9\u30ab\u30a4\u30e4\u30fc\u30ba5",
+      "romaji": "Skyers 5"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675229,
+    "volumes": null
+  },
+  "11411": {
+    "averageScore": 40,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "id": 11411,
+    "idMal": 11411,
+    "popularity": 1254,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d8\u30eb\u30bf\u30fc\u30b2\u30c3\u30c8",
+      "romaji": "Hell Target"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675229,
+    "volumes": null
+  },
+  "11421": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Adventure"
+    ],
+    "id": 11421,
+    "idMal": 11421,
+    "popularity": 242,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a4\u30eb\u30ab\u3068\u5c11\u5e74",
+      "romaji": "Iruka to Shounen"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364136,
+    "volumes": null
+  },
+  "11433": {
+    "averageScore": 71,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "id": 11433,
+    "idMal": 11433,
+    "popularity": 87292,
+    "status": "FINISHED",
+    "title": {
+      "english": "Waiting in the Summer",
+      "native": "\u3042\u306e\u590f\u3067\u5f85\u3063\u3066\u308b",
+      "romaji": "Ano Natsu de Matteru"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749649,
+    "volumes": null
+  },
+  "11441": {
+    "averageScore": 66,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "id": 11441,
+    "idMal": 11441,
+    "popularity": 6228,
+    "status": "FINISHED",
+    "title": {
+      "english": "Rurouni Kenshin: New Kyoto Arc",
+      "native": "\u308b\u308d\u3046\u306b\u5263\u5fc3-\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a- \u65b0\u4eac\u90fd\u7de8",
+      "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792681356,
+    "volumes": null
+  },
+  "11447": {
+    "averageScore": 52,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Supernatural"
+    ],
+    "id": 11447,
+    "idMal": 11447,
+    "popularity": 1132,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5e7d\u970a\u8239",
+      "romaji": "Yuurei-sen"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792271767,
+    "volumes": null
+  },
+  "11457": {
+    "averageScore": 66,
+    "chapters": null,
+    "episodes": 75,
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "id": 11457,
+    "idMal": 11457,
+    "popularity": 5400,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3061\u3073\u2606\u30c7\u30d3\uff01",
+      "romaji": "Chibi\u2606Devi!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792728137,
+    "volumes": null
+  },
+  "11465": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11465,
+    "idMal": 11465,
+    "popularity": 2328,
+    "status": "FINISHED",
+    "title": {
+      "english": "Mother In Love",
+      "native": "\u59bb\u306e\u6bcd\u3055\u3086\u308a",
+      "romaji": "Tsuma no Haha Sayuri"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675228,
+    "volumes": null
+  },
+  "11467": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11467,
+    "idMal": 11467,
+    "popularity": 4754,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "TSF\u7269\u8a9e",
+      "romaji": "TSF Monogatari"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675228,
+    "volumes": null
+  },
+  "11469": {
+    "averageScore": 52,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11469,
+    "idMal": 11469,
+    "popularity": 1035,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "BaBuKa -\u6975\u9053\u306e\u59bb-",
+      "romaji": "BaBuKa: Gokudou no Tsuma"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675228,
+    "volumes": null
+  },
+  "11471": {
+    "averageScore": 55,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "id": 11471,
+    "idMal": 11471,
+    "popularity": 2139,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3069\u308d\u308d\uff08\u30d1\u30a4\u30ed\u30c3\u30c8\uff09",
+      "romaji": "Dororo (Pilot)"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11483": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Sports"
+    ],
+    "id": 11483,
+    "idMal": 11483,
+    "popularity": 5717,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "RED LINE",
+      "romaji": "RED LINE"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792710154,
+    "volumes": null
+  },
+  "11487": {
+    "averageScore": 65,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MUSIC",
+    "genres": [
+      "Adventure",
+      "Slice of Life"
+    ],
+    "id": 11487,
+    "idMal": 11487,
+    "popularity": 2559,
+    "status": "FINISHED",
+    "title": {
+      "english": "Sekiranun Graffiti",
+      "native": "\u7a4d\u4e71\u96f2\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
+      "romaji": "Sekiranun Graffiti"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792717340,
+    "volumes": null
+  },
+  "11491": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11491,
+    "idMal": 11491,
+    "popularity": 12630,
+    "status": "FINISHED",
+    "title": {
+      "english": "Recorder and Randsell",
+      "native": "\u30ea\u30b3\u30fc\u30c0\u30fc\u3068\u30e9\u30f3\u30c9\u30bb\u30eb\u3000\u30c9\u266a",
+      "romaji": "Recorder to Randoseru Do\u266a"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792720925,
+    "volumes": null
+  },
+  "11497": {
+    "averageScore": 54,
+    "chapters": null,
+    "episodes": 26,
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11497,
+    "idMal": 11497,
+    "popularity": 274,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u305d\u308c\u3044\u3051! \u30ba\u30c3\u30b3\u30b1\u4e09\u4eba\u7d44",
+      "romaji": "Sore Ike! Zukkoke Sannin-gumi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792364093,
+    "volumes": null
+  },
+  "11499": {
+    "averageScore": 70,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Horror",
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 11499,
+    "idMal": 11499,
+    "popularity": 136454,
+    "status": "FINISHED",
+    "title": {
+      "english": "Sankarea: Undying Love",
+      "native": "\u3055\u3093\u304b\u308c\u3042",
+      "romaji": "Sankarea"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749705,
+    "volumes": null
+  },
+  "11501": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "TV",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 11501,
+    "idMal": 11501,
+    "popularity": 104,
+    "status": "NOT_YET_RELEASED",
+    "title": {
+      "english": null,
+      "native": "\u5cf6\u3093\u3061\u3085MiRiKa \u7b2c\u4e8c\u30b7\u30ea\u30fc\u30ba",
+      "romaji": "Shimanchu MiRiKa 2nd Series"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468401,
+    "volumes": null
+  },
+  "11505": {
+    "averageScore": 51,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11505,
+    "idMal": 11505,
+    "popularity": 432,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ad\u30b9\u30c0\u30e0",
+      "romaji": "Kiss Dum Special"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792107392,
+    "volumes": null
+  },
+  "11507": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MUSIC",
+    "genres": [],
+    "id": 11507,
+    "idMal": 11507,
+    "popularity": 2937,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u795e\u306e\u307f\u305e\u77e5\u308b\u30bb\u30ab\u30a4 Nonstop!! Hunters",
+      "romaji": "Kami nomi zo Shiru Sekai: Nonstop!! Hunters"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675225,
+    "volumes": null
+  },
+  "11511": {
+    "averageScore": 54,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MUSIC",
+    "genres": [],
+    "id": 11511,
+    "idMal": 11511,
+    "popularity": 797,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "Evidence",
+      "romaji": "Evidence"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363969,
+    "volumes": null
+  },
+  "11521": {
+    "averageScore": 55,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11521,
+    "idMal": 11521,
+    "popularity": 548,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30cf\u30ed\u30fc\u30ad\u30c6\u30a3 \u308a\u3093\u3054\u306e\u68ee\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+      "romaji": "Hello Kitty: Ringo no Mori no Fantasy"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363968,
+    "volumes": null
+  },
+  "11523": {
+    "averageScore": 55,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11523,
+    "idMal": 11523,
+    "popularity": 848,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3057\u304a\u3075\u304d\u30de\u30fc\u30e1\u30a4\u30c9",
+      "romaji": "Shiofuki Mermaid"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528073,
+    "volumes": null
+  },
+  "11525": {
+    "averageScore": 43,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [],
+    "id": 11525,
+    "idMal": 11525,
+    "popularity": 374,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u307e\u307f\u3080\u3081\u2605\u3082\u304c\u3061\u3087",
+      "romaji": "Mamimume\u2605Mogacho"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468399,
+    "volumes": null
+  },
+  "11531": {
+    "averageScore": 72,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "id": 11531,
+    "idMal": 11531,
+    "popularity": 8853,
+    "status": "FINISHED",
+    "title": {
+      "english": "UN-GO MOVIE",
+      "native": "UN-GO episode:0 \u56e0\u679c\u8ad6",
+      "romaji": "UN-GO episode:0 Inga-ron"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792717340,
+    "volumes": null
+  },
+  "11533": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 51,
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "id": 11533,
+    "idMal": 11533,
+    "popularity": 372,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6843\u592a\u90ce\u4f1d\u8aac",
+      "romaji": "Momotaro Densetsu"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363966,
+    "volumes": null
+  },
+  "11537": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [],
+    "id": 11537,
+    "idMal": 11537,
+    "popularity": 655,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5c71\u592a\u90ce\u304b\u3048\u308b",
+      "romaji": "Yamatarou Kaeru"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792271750,
+    "volumes": null
+  },
+  "11541": {
+    "averageScore": 46,
+    "chapters": null,
+    "episodes": 38,
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11541,
+    "idMal": 11541,
+    "popularity": 339,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30c9\u30ea\u30d6\u30a2\u30cb\u30e1\u7814\u7a76\u6240",
+      "romaji": "Ad Lib Anime Kenkyuujo"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363965,
+    "volumes": null
+  },
+  "11545": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 22,
+    "format": "TV_SHORT",
+    "genres": [],
+    "id": 11545,
+    "idMal": 11545,
+    "popularity": 1059,
+    "status": "FINISHED",
+    "title": {
+      "english": "108 Ward Inside and Out: Make-Up Artist",
+      "native": "\u516b\u767e\u516b\u753a\u8868\u88cf \u5316\u7ca7\u5e2b",
+      "romaji": "Happyakuya-chou Hyouri no Kewaishi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675224,
+    "volumes": null
+  },
+  "11547": {
+    "averageScore": 48,
+    "chapters": null,
+    "episodes": 26,
+    "format": "TV_SHORT",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "id": 11547,
+    "idMal": 11547,
+    "popularity": 1072,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6226\u56fd\u2606\u30d1\u30e9\u30c0\u30a4\u30b9-\u6975-\uff08\u304d\u308f\u307f\uff09",
+      "romaji": "Sengoku\u2606Paradise Kiwami"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675224,
+    "volumes": null
+  },
+  "11553": {
+    "averageScore": 72,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 11553,
+    "idMal": 11553,
+    "popularity": 53140,
+    "status": "FINISHED",
+    "title": {
+      "english": "Toradora!: Bento Battle",
+      "native": "\u3068\u3089\u30c9\u30e9\uff01 \u5f01\u5f53\u306e\u6975\u610f",
+      "romaji": "Toradora!: Bentou no Gokui"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792713722,
+    "volumes": null
+  },
+  "11561": {
+    "averageScore": 57,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "id": 11561,
+    "idMal": 11561,
+    "popularity": 752,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8349\u539f\u306e\u5b50\u30c6\u30f3\u30b0\u30ea",
+      "romaji": "Sougen no Ko Tenguri"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363948,
+    "volumes": null
+  },
+  "11569": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Mahou Shoujo",
+      "Music"
+    ],
+    "id": 11569,
+    "idMal": 11569,
+    "popularity": 1263,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d7\u30ea\u30ad\u30e5\u30a2\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30baDX the DANCE LIVE\u2764 \uff5e\u30df\u30e9\u30af\u30eb\u30c0\u30f3\u30b9\u30b9\u30c6\u30fc\u30b8\u3078\u3088\u3046\u3053\u305d\uff5e",
+      "romaji": "Precure All-Stars DX the DANCE LIVE\u2764: Miracle Dance Stage e Youkoso"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675224,
+    "volumes": null
+  },
+  "11577": {
+    "averageScore": 82,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "id": 11577,
+    "idMal": 11577,
+    "popularity": 141625,
+    "status": "FINISHED",
+    "title": {
+      "english": "Steins;Gate The Movie \u2013 Load Region of D\u00e9j\u00e0 Vu",
+      "native": "\u5287\u5834\u7248 \u30b7\u30e5\u30bf\u30a4\u30f3\u30ba\u30b2\u30fc\u30c8 \u8ca0\u8377\u9818\u57df\u306e\u30c7\u30b8\u30e3\u30f4",
+      "romaji": "Steins;Gate: Fuka Ryouiki no D\u00e9j\u00e0 vu"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749694,
+    "volumes": null
+  },
+  "11579": {
+    "averageScore": 46,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MUSIC",
+    "genres": [],
+    "id": 11579,
+    "idMal": 11579,
+    "popularity": 398,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b8\u30e5\u30d3\u30ea\u30fc",
+      "romaji": "Jubilee"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363934,
+    "volumes": null
+  },
+  "11583": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MUSIC",
+    "genres": [],
+    "id": 11583,
+    "idMal": 11583,
+    "popularity": 2331,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u590f\u8272\u30b5\u30d7\u30e9\u30a4\u30ba",
+      "romaji": "Natsuiro Surprise"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792107380,
+    "volumes": null
+  },
+  "11589": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 11,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11589,
+    "idMal": 11589,
+    "popularity": 204,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d7\u301c\u306d\u3053\u5c0f\u5287\u5834",
+      "romaji": "Poo-Neko Shougekijou"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363934,
+    "volumes": null
+  },
+  "11593": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Sports"
+    ],
+    "id": 11593,
+    "idMal": 11593,
+    "popularity": 184,
+    "status": "FINISHED",
+    "title": {
+      "english": "Hit and Run",
+      "native": "\u304c\u3093\u3070\u308c\uff01\u307c\u304f\u3089\u306e\u30d2\u30c3\u30c8\u30a8\u30f3\u30c9\u30e9\u30f3",
+      "romaji": "Ganbare! Bokura no Hit and Run"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792368505,
+    "volumes": null
+  },
+  "11595": {
+    "averageScore": 65,
+    "chapters": null,
+    "episodes": 526,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11595,
+    "idMal": 11595,
+    "popularity": 1748,
+    "status": "FINISHED",
+    "title": {
+      "english": "Superkid (1983)",
+      "native": "\u30d1\u30fc\u30de\u30f3 (1983)",
+      "romaji": "Perman (1983)"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528056,
+    "volumes": null
+  },
+  "11597": {
+    "averageScore": 79,
+    "chapters": null,
+    "episodes": 11,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "id": 11597,
+    "idMal": 11597,
+    "popularity": 187747,
+    "status": "FINISHED",
+    "title": {
+      "english": "Nisemonogatari",
+      "native": "\u507d\u7269\u8a9e",
+      "romaji": "Nisemonogatari"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792735241,
+    "volumes": null
+  },
+  "11609": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 11,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11609,
+    "idMal": 11609,
+    "popularity": 180,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u305d\u306e\u6642\u3001\u30b7\u30de\u30b3\u30fc\u304c\u52d5\u3044\u305f!",
+      "romaji": "Shuukan Shimakou: Sono Toki, Shimakou ga Ugoita!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363867,
+    "volumes": null
+  },
+  "11611": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11611,
+    "idMal": 11611,
+    "popularity": 155,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5927\u602a\u7363\u5cf6\u8015\u4f5c\u306e\u5dfb",
+      "romaji": "Shuukan Shimakou Special"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363866,
+    "volumes": null
+  },
+  "11615": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 11615,
+    "idMal": 11615,
+    "popularity": 3682,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u68ee\u7530\u3055\u3093\u306f\u7121\u53e3\u3002\uff12",
+      "romaji": "Morita-san wa Mukuchi. 2"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792681356,
+    "volumes": null
+  },
+  "11617": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 11617,
+    "idMal": 11617,
+    "popularity": 318551,
+    "status": "FINISHED",
+    "title": {
+      "english": "High School DxD",
+      "native": "\u30cf\u30a4\u30b9\u30af\u30fc\u30ebDxD",
+      "romaji": "High School DxD"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749632,
+    "volumes": null
+  },
+  "11625": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [],
+    "id": 11625,
+    "idMal": 11625,
+    "popularity": 212,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3069\u3093\u3079\u3048\u7269\u8a9e",
+      "romaji": "Donbe Monogatari"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792107359,
+    "volumes": null
+  },
+  "11633": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": 10,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "id": 11633,
+    "idMal": 11633,
+    "popularity": 141502,
+    "status": "FINISHED",
+    "title": {
+      "english": "Blood Lad",
+      "native": "\u30d6\u30e9\u30c3\u30c9\u30e9\u30c3\u30c9",
+      "romaji": "Blood Lad"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742530,
+    "volumes": null
+  },
+  "11635": {
+    "averageScore": 60,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "id": 11635,
+    "idMal": 11635,
+    "popularity": 1712,
+    "status": "FINISHED",
+    "title": {
+      "english": "Sacred Seven: Wings of the Silver Moon",
+      "native": "\u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30bb\u30d6\u30f3\u3000\u9280\u6708\u306e\u7ffc",
+      "romaji": "Sacred Seven: Shirogane no Tsubasa"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363772,
+    "volumes": null
+  },
+  "11659": {
+    "averageScore": 55,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11659,
+    "idMal": 11659,
+    "popularity": 988,
+    "status": "FINISHED",
+    "title": {
+      "english": "Pink: Water Thieves Rain Thieves",
+      "native": "\u30d4\u30f3\u30af \u307f\u305a\u30c9\u30ed\u30dc\u30a6\u3042\u3081\u30c9\u30ed\u30dc\u30a6",
+      "romaji": "Pink Mizu Dorobou Ame Dorobou"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528023,
+    "volumes": null
+  },
+  "11661": {
+    "averageScore": 47,
+    "chapters": null,
+    "episodes": 9,
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11661,
+    "idMal": 11661,
+    "popularity": 851,
+    "status": "FINISHED",
+    "title": {
+      "english": "BOMAHEAD",
+      "native": "\u30ed\u30dc\u3068\u5c11\u5973\uff08\u4eee\uff09",
+      "romaji": "Robo to Shoujo (Kari)"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363771,
+    "volumes": null
+  },
+  "11663": {
+    "averageScore": 66,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "id": 11663,
+    "idMal": 11663,
+    "popularity": 2297,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8584\u685c\u9b3c",
+      "romaji": "Hakuouki OVA"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792699360,
+    "volumes": null
+  },
+  "11665": {
+    "averageScore": 85,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "id": 11665,
+    "idMal": 11665,
+    "popularity": 49458,
+    "status": "FINISHED",
+    "title": {
+      "english": "Natsume's Book of Friends Season 4",
+      "native": "\u590f\u76ee\u53cb\u4eba\u5e33 \u8086",
+      "romaji": "Natsume Yuujinchou Shi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792719169,
+    "volumes": null
+  },
+  "11673": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Adventure"
+    ],
+    "id": 11673,
+    "idMal": 11673,
+    "popularity": 244,
+    "status": "FINISHED",
+    "title": {
+      "english": "Hal's Flute",
+      "native": "\u30cf\u30eb\u306e\u3075\u3048",
+      "romaji": "Hal no Fue"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363767,
+    "volumes": null
+  },
+  "11679": {
+    "averageScore": 48,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural",
+      "Thriller"
+    ],
+    "id": 11679,
+    "idMal": 11679,
+    "popularity": 3740,
+    "status": "FINISHED",
+    "title": {
+      "english": "Chainsaw Maid",
+      "native": "\u30c1\u30a7\u30fc\u30f3\u30bd\u30fc\u30fb\u30e1\u30a4\u30c9",
+      "romaji": "Chainsaw Maid"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792717340,
+    "volumes": null
+  },
+  "11681": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy"
+    ],
+    "id": 11681,
+    "idMal": 11681,
+    "popularity": 97,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u9244\u306e\u5b50\u30ab\u30ca\u30d2\u30eb",
+      "romaji": "Tetsu no Ko Kanahiru"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792107342,
+    "volumes": null
+  },
+  "11685": {
+    "averageScore": 57,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "id": 11685,
+    "idMal": 11685,
+    "popularity": 717,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5b9d\u5cf6\u30e1\u30e2\u30ea\u30a2\u30eb\u300c\u5915\u51ea\u3068\u547c\u3070\u308c\u305f\u7537\u300d",
+      "romaji": "Takarajima Memorial: Yuunagi to Yobareta Otoko"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363766,
+    "volumes": null
+  },
+  "11687": {
+    "averageScore": 39,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "id": 11687,
+    "idMal": 11687,
+    "popularity": 2389,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d7\u30c3\u30b7\u30fc\u30ad\u30e3\u30c3\u30c8",
+      "romaji": "Pussycat"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528019,
+    "volumes": null
+  },
+  "11689": {
+    "averageScore": 36,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Sports"
+    ],
+    "id": 11689,
+    "idMal": 11689,
+    "popularity": 1259,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30af\u30ec\u30a4\u30b8\u30fc\u30fb\u30af\u30ec\u30a4\u30fb\u30ec\u30b9\u30ea\u30f3\u30b0",
+      "romaji": "CCW: Crazy Clay Wrestling"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528019,
+    "volumes": null
+  },
+  "11691": {
+    "averageScore": 38,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Horror"
+    ],
+    "id": 11691,
+    "idMal": 11691,
+    "popularity": 1675,
+    "status": "FINISHED",
+    "title": {
+      "english": "Bloody Date",
+      "native": "\u8840\u307f\u3069\u308d\u30c7\u30fc\u30c8",
+      "romaji": "Bloody Date"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675212,
+    "volumes": null
+  },
+  "11693": {
+    "averageScore": 52,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Drama"
+    ],
+    "id": 11693,
+    "idMal": 11693,
+    "popularity": 505,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Little Match Girl",
+      "native": "\u30de\u30c3\u30c1\u58f2\u308a\u306e\u5c11\u5973",
+      "romaji": "Match Uri no Shoujo"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792528018,
+    "volumes": null
+  },
+  "11695": {
+    "averageScore": 45,
+    "chapters": null,
+    "episodes": 6,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "id": 11695,
+    "idMal": 11695,
+    "popularity": 338,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a6\u30eb\u30c8\u30e9\u30de\u30f3\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
+      "romaji": "Ultraman Graffiti"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792107338,
+    "volumes": null
+  },
+  "11697": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 37,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "id": 11697,
+    "idMal": 11697,
+    "popularity": 15310,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Knight in the Area",
+      "native": "\u30a8\u30ea\u30a2\u306e\u9a0e\u58eb",
+      "romaji": "Area no Kishi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749704,
+    "volumes": null
+  },
+  "11699": {
+    "averageScore": 59,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 11699,
+    "idMal": 11699,
+    "popularity": 1161,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3086\u308b\u3081\u3044\u3064 \u306f?",
+      "romaji": "Yurumates ha?"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792271510,
+    "volumes": null
+  },
+  "11701": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "id": 11701,
+    "idMal": 11701,
+    "popularity": 46997,
+    "status": "FINISHED",
+    "title": {
+      "english": "Another: The Other",
+      "native": "\u30a2\u30ca\u30b6\u30fc The Other -\u56e0\u679c-",
+      "romaji": "Another: The Other - Inga"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749700,
+    "volumes": null
+  },
+  "11703": {
+    "averageScore": 63,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "id": 11703,
+    "idMal": 11703,
+    "popularity": 65870,
+    "status": "FINISHED",
+    "title": {
+      "english": "Code:Breaker",
+      "native": "C\u00d8DE:BREAKER",
+      "romaji": "C\u00d8DE:BREAKER"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749730,
+    "volumes": null
+  },
+  "11705": {
+    "averageScore": 53,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "id": 11705,
+    "idMal": 11705,
+    "popularity": 2112,
+    "status": "FINISHED",
+    "title": {
+      "english": "Dragon Age: Dawn of the Seeker",
+      "native": "\u30c9\u30e9\u30b4\u30f3\u30a8\u30a4\u30b8 \u30d6\u30e9\u30c3\u30c9\u30e1\u30a4\u30b8\u306e\u8056\u6226",
+      "romaji": "Dragon Age: Blood Mage no Seisen"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675210,
+    "volumes": null
+  },
+  "11711": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [],
+    "id": 11711,
+    "idMal": 11711,
+    "popularity": 96,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u76ee\u3092\u3055\u307e\u305b\u30c8\u30e9\u30b4\u30ed\u30a6",
+      "romaji": "Me wo Samase Toragorou"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363757,
+    "volumes": null
+  },
+  "11713": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Fantasy"
+    ],
+    "id": 11713,
+    "idMal": 11713,
+    "popularity": 108,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6c34\u4ed9\u6708\u306e\u56db\u65e5",
+      "romaji": "Suisenzuki no Yokka"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363757,
+    "volumes": null
+  },
+  "11715": {
+    "averageScore": 54,
+    "chapters": null,
+    "episodes": 6,
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11715,
+    "idMal": 11715,
+    "popularity": 1549,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u795e\u69d8\u30c9\u30a9\u30eb\u30ba",
+      "romaji": "Kamisama Dolls Specials"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468309,
+    "volumes": null
+  },
+  "11717": {
+    "averageScore": 51,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11717,
+    "idMal": 11717,
+    "popularity": 859,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u661f\u306e\u30ab\u30fc\u30d3\u30a3 \u30d1\u30a4\u30ed\u30c3\u30c8\u7248",
+      "romaji": "Hoshi no Kirby Pilot"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675209,
+    "volumes": null
+  },
+  "11729": {
+    "averageScore": 51,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11729,
+    "idMal": 11729,
+    "popularity": 427,
+    "status": "FINISHED",
+    "title": {
+      "english": "Space Neko Theater",
+      "native": "\u30b9\u30da\u30fc\u30b9\u30cd\u30b3\u30b7\u30a2\u30bf\u30fc",
+      "romaji": "Space Neko Theater"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363756,
+    "volumes": null
+  },
+  "11731": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 2,
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11731,
+    "idMal": 11731,
+    "popularity": 112,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3061\u30fc\u3059\u3044\u4e38",
+      "romaji": "Chi-Sui Maru Specials"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363756,
+    "volumes": null
+  },
+  "11733": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": 34,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11733,
+    "idMal": 11733,
+    "popularity": 152,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3061\u30fc\u3059\u3044\u4e38",
+      "romaji": "Chi-Sui Maru 2nd Season"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363756,
+    "volumes": null
+  },
+  "11735": {
+    "averageScore": 49,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "id": 11735,
+    "idMal": 11735,
+    "popularity": 936,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b3\u30eb\u30dc\u30c3\u30b3\u30ed",
+      "romaji": "Coluboccoro"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468308,
+    "volumes": null
+  },
+  "11737": {
+    "averageScore": 73,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "id": 11737,
+    "idMal": 11737,
+    "popularity": 54961,
+    "status": "FINISHED",
+    "title": {
+      "english": "Blue Exorcist: The Movie",
+      "native": "\u9752\u306e\u7953\u9b54\u5e2b -\u5287\u5834\u7248-",
+      "romaji": "Ao no Exorcist Movie"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11739": {
+    "averageScore": 77,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 11739,
+    "idMal": 11739,
+    "popularity": 16755,
+    "status": "FINISHED",
+    "title": {
+      "english": "You and Me 2",
+      "native": "\u541b\u3068\u50d5\u30022",
+      "romaji": "Kimi to Boku. 2"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792702970,
+    "volumes": null
+  },
+  "11741": {
+    "averageScore": 84,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "id": 11741,
+    "idMal": 11741,
+    "popularity": 244431,
+    "status": "FINISHED",
+    "title": {
+      "english": "Fate/Zero Season 2",
+      "native": "Fate/Zero 2nd\u30b7\u30fc\u30ba\u30f3",
+      "romaji": "Fate/Zero 2nd Season"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749651,
+    "volumes": null
+  },
+  "11743": {
+    "averageScore": 71,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Music",
+      "Sci-Fi"
+    ],
+    "id": 11743,
+    "idMal": 11743,
+    "popularity": 36161,
+    "status": "FINISHED",
+    "title": {
+      "english": "A Certain Magical Index: The Miracle of Endymion",
+      "native": "\u5287\u5834\u7248 \u3068\u3042\u308b\u9b54\u8853\u306e\u7981\u66f8\u76ee\u9332 \u30a8\u30f3\u30c7\u30e5\u30df\u30aa\u30f3\u306e\u5947\u8e5f",
+      "romaji": "Toaru Majutsu no Index: Endymion no Kiseki"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792738914,
+    "volumes": null
+  },
+  "11745": {
+    "averageScore": 62,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11745,
+    "idMal": 11745,
+    "popularity": 3042,
+    "status": "FINISHED",
+    "title": {
+      "english": "Evil Woman Executive",
+      "native": "\u60aa\u306e\u5973\u5e79\u90e8",
+      "romaji": "Aku no Onna Kanbu"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792677763,
+    "volumes": null
+  },
+  "11747": {
+    "averageScore": 60,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai",
+      "Romance"
+    ],
+    "id": 11747,
+    "idMal": 11747,
+    "popularity": 1720,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u9727\u8c37\u4f2f\u7235\u5bb6\u306e\u516d\u59c9\u59b9",
+      "romaji": "Kiriya Hakushaku Ke no Roku Shimai"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675204,
+    "volumes": null
+  },
+  "11749": {
+    "averageScore": 56,
+    "chapters": null,
+    "episodes": 3,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11749,
+    "idMal": 11749,
+    "popularity": 1322,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u61f2\u7f70\u6307\u5c0e \uff5e\u5b66\u5712\u4ee4\u5b22\u66f4\u6027\u8a08\u753b\uff5e",
+      "romaji": "Oshioki: Gakuen Reijou Kousei Keikaku"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363711,
+    "volumes": null
+  },
+  "11751": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mahou Shoujo",
+      "Music",
+      "Sci-Fi"
+    ],
+    "id": 11751,
+    "idMal": 11751,
+    "popularity": 47511,
+    "status": "FINISHED",
+    "title": {
+      "english": "Symphogear",
+      "native": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2",
+      "romaji": "Senki Zesshou Symphogear"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749614,
+    "volumes": null
+  },
+  "11755": {
+    "averageScore": 60,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11755,
+    "idMal": 11755,
+    "popularity": 5703,
+    "status": "FINISHED",
+    "title": {
+      "english": "009 Re:Cyborg",
+      "native": "009 RE:CYBORG",
+      "romaji": "009 RE:CYBORG"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792468225,
+    "volumes": null
+  },
+  "11757": {
+    "averageScore": 70,
+    "chapters": null,
+    "episodes": 25,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 11757,
+    "idMal": 11757,
+    "popularity": 727684,
+    "status": "FINISHED",
+    "title": {
+      "english": "Sword Art Online",
+      "native": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3",
+      "romaji": "Sword Art Online"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742441,
+    "volumes": null
+  },
+  "11759": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 24,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 11759,
+    "idMal": 11759,
+    "popularity": 133540,
+    "status": "FINISHED",
+    "title": {
+      "english": "Accel World",
+      "native": "\u30a2\u30af\u30bb\u30eb\u30fb\u30ef\u30fc\u30eb\u30c9",
+      "romaji": "Accel World"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742522,
+    "volumes": null
+  },
+  "11761": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "id": 11761,
+    "idMal": 11761,
+    "popularity": 61930,
+    "status": "FINISHED",
+    "title": {
+      "english": "Medaka Box",
+      "native": "\u3081\u3060\u304b\u30dc\u30c3\u30af\u30b9",
+      "romaji": "Medaka Box"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742486,
+    "volumes": null
+  },
+  "11763": {
+    "averageScore": 51,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Sports"
+    ],
+    "id": 11763,
+    "idMal": 11763,
+    "popularity": 15969,
+    "status": "FINISHED",
+    "title": {
+      "english": "Wanna be the Strongest in the World!",
+      "native": "\u4e16\u754c\u3067\u3044\u3061\u3070\u3093\u5f37\u304f\u306a\u308a\u305f\u3044!",
+      "romaji": "Sekai de Ichiban Tsuyoku Naritai!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792710154,
+    "volumes": null
+  },
+  "11767": {
+    "averageScore": 42,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 11767,
+    "idMal": 11767,
+    "popularity": 502,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b8\u30e3\u30b9\u30c6\u30a3\u30fc\u30f3",
+      "romaji": "Justeen"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363451,
+    "volumes": null
+  },
+  "11769": {
+    "averageScore": 57,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "id": 11769,
+    "idMal": 11769,
+    "popularity": 8142,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b4\u30af\u30b8\u30e7\u30c3\u3002",
+      "romaji": "Gokujo."
+    },
+    "type": "ANIME",
+    "updatedAt": 1792684969,
+    "volumes": null
+  },
+  "11771": {
+    "averageScore": 78,
+    "chapters": null,
+    "episodes": 25,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "id": 11771,
+    "idMal": 11771,
+    "popularity": 289933,
+    "status": "FINISHED",
+    "title": {
+      "english": "Kuroko's Basketball",
+      "native": "\u9ed2\u5b50\u306e\u30d0\u30b9\u30b1",
+      "romaji": "Kuroko no Basket"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742431,
+    "volumes": null
+  },
+  "11773": {
+    "averageScore": 58,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "id": 11773,
+    "idMal": 11773,
+    "popularity": 1674,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "ToHeart2 \u30c0\u30f3\u30b8\u30e7\u30f3\u30c8\u30e9\u30d9\u30e9\u30fc\u30ba",
+      "romaji": "ToHeart2: Dungeon Travelers"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792681356,
+    "volumes": null
+  },
+  "11777": {
+    "averageScore": 70,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "id": 11777,
+    "idMal": 11777,
+    "popularity": 2806,
+    "status": "FINISHED",
+    "title": {
+      "english": "Lupin the 3rd: Blood Seal of the Eternal Mermaid",
+      "native": "\u30eb\u30d1\u30f3\u4e09\u4e16 \u8840\u306e\u523b\u5370 - \u6c38\u9060\u306eMermaid",
+      "romaji": "Lupin III: Chi no Kokuin - Eien no Mermaid"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792527895,
+    "volumes": null
+  },
+  "11783": {
+    "averageScore": 67,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "id": 11783,
+    "idMal": 11783,
+    "popularity": 21125,
+    "status": "FINISHED",
+    "title": {
+      "english": "Dog Days Season 2",
+      "native": "\u30c9\u30c3\u30b0\u30c7\u30a4\u30ba'",
+      "romaji": "Dog Days'"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11785": {
+    "averageScore": 66,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 11785,
+    "idMal": 11785,
+    "popularity": 83508,
+    "status": "FINISHED",
+    "title": {
+      "english": "Nyaruko: Crawling with Love!",
+      "native": "\u9019\u3044\u3088\u308c\uff01\u30cb\u30e3\u30eb\u5b50\u3055\u3093",
+      "romaji": "Haiyore! Nyaruko-san"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11787": {
+    "averageScore": 57,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "id": 11787,
+    "idMal": 11787,
+    "popularity": 1107,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c8\u30ea\u30b3 \u30d0\u30fc\u30d0\u30ea\u30a2\u30f3\u30a2\u30a4\u30d3\u30fc\u3092\u6355\u7372\u305b\u3088!",
+      "romaji": "Toriko: Barbarian Ivy wo Hokaku Seyo!"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675177,
+    "volumes": null
+  },
+  "11789": {
+    "averageScore": 47,
+    "chapters": null,
+    "episodes": 2,
+    "format": "ONA",
+    "genres": [
+      "Fantasy"
+    ],
+    "id": 11789,
+    "idMal": 11789,
+    "popularity": 283,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "Wish me mell",
+      "romaji": "Wish me mell"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675177,
+    "volumes": null
+  },
+  "11791": {
+    "averageScore": 52,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11791,
+    "idMal": 11791,
+    "popularity": 393,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u305d\u308c\u3044\u3051! \u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30eb\u30d3\u30fc\u306e\u9858\u3044",
+      "romaji": "Sore Ike! Anpanman: Ruby no Negai"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792467692,
+    "volumes": null
+  },
+  "11793": {
+    "averageScore": 73,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 11793,
+    "idMal": 11793,
+    "popularity": 3527,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u305f\u307e\u3086\u3089\uff5ehitotose\uff5e \u7b2c5.5\u8a71\u300c\u3042\u3063\u305f\u304b\u3044\u98a8\u306e\u60f3\u3044\u51fa\u306a\u306e\u3067\u300d",
+      "romaji": "Tamayura: hitotose - Attakai Kaze no Omoide Nanode"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11799": {
+    "averageScore": 54,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Mystery"
+    ],
+    "id": 11799,
+    "idMal": 11799,
+    "popularity": 1006,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Green Cat",
+      "native": "\u7dd1\u306e\u732b",
+      "romaji": "Midori no Neko"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792706575,
+    "volumes": null
+  },
+  "11807": {
+    "averageScore": 61,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11807,
+    "idMal": 11807,
+    "popularity": 1823,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "School",
+      "romaji": "School"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675176,
+    "volumes": null
+  },
+  "11809": {
+    "averageScore": 65,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11809,
+    "idMal": 11809,
+    "popularity": 3281,
+    "status": "FINISHED",
+    "title": {
+      "english": "gdgd Fairies",
+      "native": "gdgd\u5996\u7cbes\uff08\u3050\u3060\u3050\u3060\u3075\u3047\u3042\u308a\u30fc\u305a\uff09",
+      "romaji": "gdgd Fairies"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792720925,
+    "volumes": null
+  },
+  "11813": {
+    "averageScore": 76,
+    "chapters": null,
+    "episodes": 11,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "id": 11813,
+    "idMal": 11813,
+    "popularity": 11577,
+    "status": "FINISHED",
+    "title": {
+      "english": "Kenichi: The Mightiest Disciple: The Attack of Darkness",
+      "native": "\u53f2\u4e0a\u6700\u5f37\u306e\u5f1f\u5b50 \u30b1\u30f3\u30a4\u30c1 OVA",
+      "romaji": "Shijou Saikyou no Deshi Kenichi OVA"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792717340,
+    "volumes": null
+  },
+  "11815": {
+    "averageScore": 51,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11815,
+    "idMal": 11815,
+    "popularity": 961,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7570\u5e38\u75f4\u614b \u5b9f\u9a13\u5974\u96b7",
+      "romaji": "Ijou Chitai: Jikken Dorei"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363412,
+    "volumes": null
+  },
+  "11825": {
+    "averageScore": 40,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11825,
+    "idMal": 11825,
+    "popularity": 284,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8276\u7b11\u65e5\u672c\u6614\u3070\u306a\u3057",
+      "romaji": "Enshou Nihon Mukashibanashi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363412,
+    "volumes": null
+  },
+  "11827": {
+    "averageScore": 68,
+    "chapters": null,
+    "episodes": 6,
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Hentai"
+    ],
+    "id": 11827,
+    "idMal": 11827,
+    "popularity": 9340,
+    "status": "FINISHED",
+    "title": {
+      "english": "Kuroinu \uff5eThe proud saint is stained with white filth\uff5e",
+      "native": "\u9ed2\u7363 \uff5e\u6c17\u9ad8\u304d\u8056\u5973\u306f\u767d\u6fc1\u306b\u67d3\u307e\u308b\uff5e",
+      "romaji": "Kuroinu: Kedakaki Seijo wa Hakudaku ni Somaru"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792731721,
+    "volumes": null
+  },
+  "11829": {
+    "averageScore": 64,
+    "chapters": null,
+    "episodes": 46,
+    "format": "TV",
+    "genres": [],
+    "id": 11829,
+    "idMal": 11829,
+    "popularity": 463,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u307e\u3093\u304c\u6c34\u6238\u9ec4\u9580",
+      "romaji": "Manga Mitokoumon"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363408,
+    "volumes": null
+  },
+  "11835": {
+    "averageScore": 55,
+    "chapters": null,
+    "episodes": 34,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "id": 11835,
+    "idMal": 11835,
+    "popularity": 412,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u79e6\u65f6\u660e\u6708\u4e4b\u8bf8\u5b50\u767e\u5bb6",
+      "romaji": "Qin Shi Mingyue: Zhuzi Baijia"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363407,
+    "volumes": null
+  },
+  "11837": {
+    "averageScore": 64,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "id": 11837,
+    "idMal": 11837,
+    "popularity": 27126,
+    "status": "FINISHED",
+    "title": {
+      "english": "Zetman",
+      "native": "\u30bc\u30c3\u30c8\u30de\u30f3",
+      "romaji": "Zetman"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792735322,
+    "volumes": null
+  },
+  "11841": {
+    "averageScore": 54,
+    "chapters": null,
+    "episodes": 18,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "id": 11841,
+    "idMal": 11841,
+    "popularity": 396,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u79e6\u65f6\u660e\u6708\u4e4b\u591c\u5c3d\u5929\u660e",
+      "romaji": "Qin Shi Mingyue: Ye Jin Tianming"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363396,
+    "volumes": null
+  },
+  "11843": {
+    "averageScore": 80,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 11843,
+    "idMal": 11843,
+    "popularity": 195616,
+    "status": "FINISHED",
+    "title": {
+      "english": "Daily Lives of High School Boys",
+      "native": "\u7537\u5b50\u9ad8\u6821\u751f\u306e\u65e5\u5e38",
+      "romaji": "Danshi Koukousei no Nichijou"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792738861,
+    "volumes": null
+  },
+  "11853": {
+    "averageScore": 56,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "id": 11853,
+    "idMal": 11853,
+    "popularity": 1742,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d4\u30ab\u30c1\u30e5\u30a6\u306e\u30b5\u30de\u30fc\u30fb\u30d6\u30ea\u30c3\u30b8\u30fb\u30b9\u30c8\u30fc\u30ea\u30fc",
+      "romaji": "Pikachu no Summer Bridge Story"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792270844,
+    "volumes": null
+  },
+  "11855": {
+    "averageScore": 54,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11855,
+    "idMal": 11855,
+    "popularity": 1294,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u653e\u8ab2\u5f8c\u306b\u3083\u3093\u306b\u3083\u3093",
+      "romaji": "Houkago Nyannyan"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792527874,
+    "volumes": null
+  },
+  "11857": {
+    "averageScore": 54,
+    "chapters": null,
+    "episodes": 27,
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "id": 11857,
+    "idMal": 11857,
+    "popularity": 436,
+    "status": "CANCELLED",
+    "title": {
+      "english": null,
+      "native": "\u67d4\u9053\u8b83\u6b4c",
+      "romaji": "Judo Sanka"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363377,
+    "volumes": null
+  },
+  "11859": {
+    "averageScore": 58,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "id": 11859,
+    "idMal": 11859,
+    "popularity": 10008,
+    "status": "FINISHED",
+    "title": {
+      "english": "Queen's Blade Rebellion",
+      "native": "\u30af\u30a4\u30fc\u30f3\u30ba\u30d6\u30ec\u30a4\u30c9 \u30ea\u30d9\u30ea\u30aa\u30f3",
+      "romaji": "Queen's Blade: Rebellion"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792717340,
+    "volumes": null
+  },
+  "11867": {
+    "averageScore": 44,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "id": 11867,
+    "idMal": 11867,
+    "popularity": 6131,
+    "status": "FINISHED",
+    "title": {
+      "english": "Cipher",
+      "native": "CIPHER",
+      "romaji": "CIPHER"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792710154,
+    "volumes": null
+  },
+  "11869": {
+    "averageScore": 36,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Horror",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "id": 11869,
+    "idMal": 11869,
+    "popularity": 1265,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8840\u307f\u3069\u308d\u306e\u591c",
+      "romaji": "Bloody Night"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792467673,
+    "volumes": null
+  },
+  "11873": {
+    "averageScore": 58,
+    "chapters": null,
+    "episodes": 44,
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11873,
+    "idMal": 11873,
+    "popularity": 440,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u3089\u3041\u30b0\u30ba\u30e9\u3060\u3069 (1987)",
+      "romaji": "Oraa Guzura Dado (1987)"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792527867,
+    "volumes": null
+  },
+  "11879": {
+    "averageScore": 65,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11879,
+    "idMal": 11879,
+    "popularity": 6460,
+    "status": "FINISHED",
+    "title": {
+      "english": "Demon Father Re-born",
+      "native": "\u9b3c\u7236 Re-born",
+      "romaji": "Oni Chichi: Re-born"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792728137,
+    "volumes": null
+  },
+  "11883": {
+    "averageScore": 30,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Fantasy"
+    ],
+    "id": 11883,
+    "idMal": 11883,
+    "popularity": 1281,
+    "status": "FINISHED",
+    "title": {
+      "english": "Battle of Clay 2",
+      "native": "\u306d\u3093\u3069\u306e\u305f\u305f\u304b\u3044\uff12",
+      "romaji": "Nendo no Tatakai 2"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363367,
+    "volumes": null
+  },
+  "11887": {
+    "averageScore": 75,
+    "chapters": null,
+    "episodes": 13,
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "id": 11887,
+    "idMal": 11887,
+    "popularity": 192905,
+    "status": "FINISHED",
+    "title": {
+      "english": "Kokoro Connect",
+      "native": "\u30b3\u30b3\u30ed\u30b3\u30cd\u30af\u30c8",
+      "romaji": "Kokoro Connect"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749726,
+    "volumes": null
+  },
+  "11889": {
+    "averageScore": 73,
+    "chapters": null,
+    "episodes": 1,
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "id": 11889,
+    "idMal": 11889,
+    "popularity": 8836,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc 765\u30d7\u30ed\u3068\u3044\u3046\u7269\u8a9e",
+      "romaji": "The Idolm@ster: 765 Pro to Iu Monogatari"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792695771,
+    "volumes": null
+  },
+  "11897": {
+    "averageScore": 32,
+    "chapters": null,
+    "episodes": 1,
+    "format": "ONA",
+    "genres": [
+      "Fantasy"
+    ],
+    "id": 11897,
+    "idMal": 11897,
+    "popularity": 1662,
+    "status": "FINISHED",
+    "title": {
+      "english": "Battle of Clay",
+      "native": "\u306d\u3093\u3069\u306e\u305f\u305f\u304b\u3044",
+      "romaji": "Nendo no Tatakai"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363351,
+    "volumes": null
+  },
+  "11911": {
+    "averageScore": 64,
+    "chapters": null,
+    "episodes": 51,
+    "format": "SPECIAL",
+    "genres": [
+      "Music",
+      "Sports"
+    ],
+    "id": 11911,
+    "idMal": 11911,
+    "popularity": 1219,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d7\u30ea\u30ba\u30e0\u7b11\u5287\u5834",
+      "romaji": "Pretty Rhythm Shougekijou"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792675169,
+    "volumes": null
+  },
+  "11915": {
+    "averageScore": 30,
+    "chapters": null,
+    "episodes": 2,
+    "format": "ONA",
+    "genres": [
+      "Horror"
+    ],
+    "id": 11915,
+    "idMal": 11915,
+    "popularity": 1143,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "WITHIN THE BLOODY WOODS",
+      "romaji": "WITHIN THE BLOODY WOODS"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792363350,
+    "volumes": null
+  },
+  "11917": {
+    "averageScore": 80,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "id": 11917,
+    "idMal": 11917,
+    "popularity": 8503,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30e1\u30b8\u30e3\u30fc \u30ef\u30fc\u30eb\u30c9\u30b7\u30ea\u30fc\u30ba\u7de8",
+      "romaji": "Major: World Series"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792695771,
+    "volumes": null
+  },
+  "11919": {
+    "averageScore": 55,
+    "chapters": null,
+    "episodes": 52,
+    "format": "TV",
+    "genres": [
+      "Romance",
+      "Sports"
+    ],
+    "id": 11919,
+    "idMal": 11919,
+    "popularity": 491,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d9a\u30fb\u30a2\u30bf\u30c3\u30ab\u30fcYOU \u91d1\u30e1\u30c0\u30eb\u3078\u306e\u9053",
+      "romaji": "Zoku Attacker YOU! Kin Medal e no Michi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792684969,
+    "volumes": null
+  },
+  "11933": {
+    "averageScore": 70,
+    "chapters": null,
+    "episodes": 12,
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "id": 11933,
+    "idMal": 11933,
+    "popularity": 60087,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Ambition of Oda Nobuna",
+      "native": "\u7e54\u7530\u4fe1\u5948\u306e\u91ce\u671b",
+      "romaji": "Oda Nobuna no Yabou"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749704,
+    "volumes": null
+  },
+  "11959": {
+    "averageScore": 49,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 11959,
+    "idMal": 11959,
+    "popularity": 355,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u71c3\u3048\u308b! \u304a\u5144\u3055\u3093 (1989)",
+      "romaji": "Moeru! Onii-san (OVA)"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792107043,
+    "volumes": null
+  },
+  "11969": {
+    "averageScore": 57,
+    "chapters": null,
+    "episodes": 1,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11969,
+    "idMal": 11969,
+    "popularity": 1828,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30e9\u30d6\u30d3\u30c3\u30c1\uff5e\u512a\u3057\u3044\u5973\u2026\uff5e",
+      "romaji": "Love Bitch: Yasashii Onna"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792467658,
+    "volumes": null
+  },
+  "11977": {
+    "averageScore": 80,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Psychological",
+      "Thriller"
+    ],
+    "id": 11977,
+    "idMal": 11977,
+    "popularity": 54733,
+    "status": "FINISHED",
+    "title": {
+      "english": "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
+      "native": "\u5287\u5834\u7248 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab \u59cb\u307e\u308a\u306e\u7269\u8a9e",
+      "romaji": "Mahou Shoujo Madoka\u2606Magica: Hajimari no Monogatari"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742519,
+    "volumes": null
+  },
+  "11979": {
+    "averageScore": 82,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Psychological",
+      "Thriller"
+    ],
+    "id": 11979,
+    "idMal": 11979,
+    "popularity": 53902,
+    "status": "FINISHED",
+    "title": {
+      "english": "Puella Magi Madoka Magica the Movie Part 2: Eternal",
+      "native": "\u5287\u5834\u7248 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab \u6c38\u9060\u306e\u7269\u8a9e",
+      "romaji": "Mahou Shoujo Madoka\u2606Magica: Eien no Monogatari"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792742519,
+    "volumes": null
+  },
+  "11981": {
+    "averageScore": 84,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "id": 11981,
+    "idMal": 11981,
+    "popularity": 121107,
+    "status": "FINISHED",
+    "title": {
+      "english": "Puella Magi Madoka Magica the Movie -Rebellion-",
+      "native": "\u5287\u5834\u7248 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab \u53db\u9006\u306e\u7269\u8a9e",
+      "romaji": "Mahou Shoujo Madoka\u2606Magica: Hangyaku no Monogatari"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792749730,
+    "volumes": null
+  },
+  "11995": {
+    "averageScore": 50,
+    "chapters": null,
+    "episodes": 1,
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "id": 11995,
+    "idMal": 11995,
+    "popularity": 756,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ae\u30eb\u30b9\u30c6\u30a3\u30f3",
+      "romaji": "Guilstein"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792699360,
+    "volumes": null
+  },
+  "11997": {
+    "averageScore": 59,
+    "chapters": null,
+    "episodes": 2,
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 11997,
+    "idMal": 11997,
+    "popularity": 1924,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c4\u30f3\u30c7\u30ec\u6deb\u4e71\u5c11\u5973\u3059\u304f\u307f",
+      "romaji": "Tsundere Inran Shoujo Sukumi"
+    },
+    "type": "ANIME",
+    "updatedAt": 1792512113,
+    "volumes": null
+  }
+}
