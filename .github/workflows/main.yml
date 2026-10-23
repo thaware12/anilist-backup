@@ -33,17 +33,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Continuous sync loop
+      - name: Sync (loops only while seeding)
         shell: bash
         run: |
           set -u
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Loop for ~50 min; the next cron run takes over right after (see README).
+          # While the first full seed is running: loop ~50 min (fast). Once seeded: ONE pass per
+          # cron run (about a minute), then the job ends and the next cron run does the next pass.
           MAX_DURATION="${MAX_DURATION:-3000}"
           SLEEP_SEEDING="${SLEEP_SEEDING:-5}"     # seed still running: go again right away
-          SLEEP_IDLE="${SLEEP_IDLE:-300}"         # seed finished: one sync every 5 minutes
           SLEEP_OUTAGE="${SLEEP_OUTAGE:-120}"     # AniList/Cloudflare down: back off
           START_TIME=$(date +%s)
 
@@ -77,9 +77,14 @@ jobs:
             # Always publish what was fetched, even when sync.py reported a problem.
             push_changes || echo "::warning::could not push; will retry next cycle"
 
+            SEEDED=false
+            if grep -q '"seed_complete": true' state.json; then SEEDED=true; fi
+
             case "$rc" in
-              0)  if grep -q '"seed_complete": true' state.json; then PAUSE=$SLEEP_IDLE; else PAUSE=$SLEEP_SEEDING; fi ;;
+              0)  if [ "$SEEDED" = true ]; then echo "Sync pass finished."; break; fi
+                  PAUSE=$SLEEP_SEEDING ;;
               75) echo "::warning::AniList/Cloudflare outage - skipping this cycle, backup stays as-is"
+                  if [ "$SEEDED" = true ]; then break; fi
                   PAUSE=$SLEEP_OUTAGE ;;
               *)  echo "::error::sync.py failed with exit code $rc"
                   exit "$rc" ;;
@@ -91,4 +96,5 @@ jobs:
               break
             fi
             sleep "$PAUSE"
+            
           done
