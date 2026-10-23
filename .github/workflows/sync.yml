@@ -5,7 +5,6 @@ on:
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
-# Prevent overlapping runs from causing git push conflicts
 concurrency:
   group: anilist-sync
   cancel-in-progress: false
@@ -16,6 +15,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,18 +30,159 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run incremental sync
-        run: python sync.py
-
-      - name: Commit and push changes
+      - name: Fix README.md automatically
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ state.json
-          if git diff --staged --quiet; then
-            echo "No new updates to commit."
-            exit 0
+          if [ -f "README" ]; then
+            git rm -f README
           fi
-          git commit -m "chore(sync): incremental update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-          git pull --rebase origin main
-          git push origin main
+          python - << 'EOF'
+          from pathlib import Path
+
+          h = "https:" + "//"
+          readme_lines = [
+              "# 🗄️ AniList Automated Backup (`anilist-backup`)",
+              "",
+              f"![License: MIT]({h}img.shields.io/badge/License-MIT-green.svg)",
+              f"![Built With AI]({h}img.shields.io/badge/Built%20With-AI-blueviolet.svg)",
+              f"![Sync Interval]({h}img.shields.io/badge/Sync-Every%205%20Minutes-blue.svg)",
+              "",
+              "An automated, self-updating, public JSON mirror of the **AniList Anime & Manga catalog**, powered by GitHub Actions.",
+              "",
+              f"Designed as a high-availability fallback dataset so developers, websites, Discord bots, and apps can continue reading Anime and Manga metadata even when the official AniList API (`graphql.anilist.co`) or Cloudflare is down.",
+              "",
+              "> 🤖 **AI-Generated Project:** This repository—including its sharded data architecture, GraphQL sync engine (`sync.py`), fault-tolerant GitHub Actions workflow, and documentation—was **created by AI** for [`@thaware12`]({h}github.com/thaware12).",
+              "",
+              "> 🔓 **Free for Everyone (MIT License):** This project and all backed-up data structures are **100% free to use for everyone** (personal, open-source, or commercial projects) under the **MIT License**.",
+              "",
+              "---",
+              "",
+              "## ✨ How It Works",
+              "",
+              "1. **Phase 1 — Initial Full Catalog Seed:**",
+              "   - Fetches the entire AniList Anime and Manga catalog in windows of 500 IDs (`id_in`) to stay safely under AniList's 30 req/min rate limit and bypass the 5,000-item pagination cap.",
+              "   - Commits and pushes new shard files every ~3 minutes until `seed_complete` is `true` in `state.json`.",
+              "2. **Phase 2 — 5-Minute Incremental Delta Sync:**",
+              "   - Queries `media(sort: UPDATED_AT_DESC)` every 5 minutes and updates **only the specific IDs that changed** since `last_updated_at`, keeping all existing backup data intact.",
+              "3. **Outage & Cloudflare Resilience:**",
+              "   - If AniList or Cloudflare returns `HTTP 403`, `429`, `500–504`, `520–524`, or times out, the script saves progress and exits cleanly (`exit 0`) so existing backup files remain safe and no failure emails are sent.",
+              "",
+              "---",
+              "",
+              "## 📂 Sharded File Structure",
+              "",
+              "Entries are grouped into shards of **1,000 IDs** (`Math.floor(id / 1000)` padded to 4 digits):",
+              "",
+              "- `data/anime/shard_0000.json` → Anime IDs `1` to `999`",
+              "- `data/anime/shard_0001.json` → Anime IDs `1000` to `1999`",
+              "- `data/manga/shard_0030.json` → Manga IDs `30000` to `30999`",
+              "",
+              "---",
+              "",
+              "## 📊 Backed-Up Fields",
+              "",
+              "| Field | Type | Description |",
+              "| :--- | :--- | :--- |",
+              "| `id` | `Int` | AniList Media ID (used as the JSON key) |",
+              "| `idMal` | `Int \\| null` | Linked MyAnimeList (MAL) ID |",
+              "| `type` | `String` | `ANIME` or `MANGA` |",
+              "| `format` | `String` | `TV`, `TV_SHORT`, `MOVIE`, `SPECIAL`, `OVA`, `ONA`, `MUSIC`, `MANGA`, `NOVEL`, `ONE_SHOT` |",
+              "| `status` | `String` | `FINISHED`, `RELEASING`, `NOT_YET_RELEASED`, `CANCELLED`, `HIATUS` |",
+              "| `updatedAt` | `Int` | Unix timestamp of last update on AniList |",
+              "| `title` | `Object` | `{ romaji, english, native }` |",
+              "| `episodes` | `Int \\| null` | Total episode count (Anime) |",
+              "| `chapters` | `Int \\| null` | Total chapter count (Manga) |",
+              "| `volumes` | `Int \\| null` | Total volume count (Manga) |",
+              "| `averageScore` | `Int \\| null` | Community rating (`0`–`100`) |",
+              "| `popularity` | `Int` | Number of users tracking this entry |",
+              "| `genres` | `String[]` | Array of genres |",
+              "",
+              "---",
+              "",
+              "## 🚀 How to Use in Your Projects",
+              "",
+              "### JavaScript / TypeScript (Auto-Fallback When AniList Is Down)",
+              "",
+              "```javascript",
+              "async function getMediaWithFallback(id, mediaType = 'anime') {",
+              "  const shardId = String(Math.floor(id / 1000)).padStart(4, '0');",
+              f"  const backupUrl = `{h}cdn.jsdelivr.net/gh/thaware12/anilist-backup@main/data/${{mediaType.toLowerCase()}}/shard_${{shardId}}.json`;",
+              "",
+              "  try {",
+              f"    const res = await fetch('{h}graphql.anilist.co', {{",
+              "      method: 'POST',",
+              "      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },",
+              "      body: JSON.stringify({",
+              "        query: 'query ($id: Int) { Media(id: $id) { id idMal type format status updatedAt title { romaji english native } episodes chapters volumes averageScore popularity genres } }',",
+              "        variables: { id: Number(id) },",
+              "      }),",
+              "      signal: AbortSignal.timeout(5000),",
+              "    });",
+              "    if (!res.ok) throw new Error(`HTTP ${res.status}`);",
+              "    const json = await res.json();",
+              "    return { source: 'anilist-live', data: json.data.Media };",
+              "  } catch (err) {",
+              "    const backupRes = await fetch(backupUrl);",
+              "    const shard = await backupRes.json();",
+              "    return { source: 'github-backup', data: shard[String(id)] || null };",
+              "  }",
+              "}",
+              "```",
+              "",
+              "### Python",
+              "",
+              "```python",
+              "import requests",
+              "",
+              "def get_from_backup(media_id: int, media_type: str = 'anime') -> dict | None:",
+              "    shard_id = f'{media_id // 1000:04d}'",
+              f"    url = f'{h}cdn.jsdelivr.net/gh/thaware12/anilist-backup@main/data/{{media_type.lower()}}/shard_{{shard_id}}.json'",
+              "    resp = requests.get(url, timeout=15)",
+              "    resp.raise_for_status()",
+              "    return resp.json().get(str(media_id))",
+              "```",
+              "",
+              "---",
+              "",
+              "## 📜 License",
+              "",
+              "Licensed under the **MIT License**. Free for everyone to use, modify, and distribute. Built by AI and maintained by **@thaware12**.",
+          ]
+          Path("README.md").write_text("\n".join(readme_lines) + "\n", encoding="utf-8")
+          EOF
+
+      - name: Continuous Sync Loop (50 Minutes)
+        run: |
+           git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          START_TIME=$(date +%s)
+          MAX_DURATION=3000
+
+          while true; do
+            NOW=$(date +%s)
+            ELAPSED=$((NOW - START_TIME))
+            if [ $ELAPSED -ge $MAX_DURATION ]; then
+              echo "50-minute cycle finished. Handing off to next scheduled run."
+              break
+            fi
+
+            python sync.py
+
+            git add -A README.md data/ state.json || true
+            if ! git diff --staged --quiet; then
+              git commit -m "chore(sync): incremental update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+              git pull --rebase origin main
+              git push origin main
+            else
+              echo "No new changes in this cycle."
+            fi
+
+            SEED_DONE=$(python -c "import json; print(json.load(open('state.json')).get('seed_complete', False))")
+            if [ "$SEED_DONE" = "True" ]; then
+              echo "Seed is complete. Sleeping 5 minutes before next delta check..."
+              sleep 300
+            else
+              echo "Initial seed still in progress. Starting next batch in 5 seconds..."
+              sleep 5
+            fi
+          done
