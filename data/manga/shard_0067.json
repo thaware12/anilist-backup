@@ -1,0 +1,4618 @@
+{
+  "67003": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Ecchi",
+      "Romance"
+    ],
+    "id": 67003,
+    "idMal": 37003,
+    "popularity": 14,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": null,
+      "romaji": "Komaken"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613834,
+    "volumes": null
+  },
+  "67007": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 67007,
+    "idMal": 37007,
+    "popularity": 26,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30e9\u30b9\u30c8\u30de\u30b9\u30bf\u30fc",
+      "romaji": "Last Master"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791303075,
+    "volumes": 1
+  },
+  "67009": {
+    "averageScore": null,
+    "chapters": 12,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67009,
+    "idMal": 37009,
+    "popularity": 85,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "STORM LOVER \u590f\u604b!!",
+      "romaji": "Storm Lover"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444907,
+    "volumes": 2
+  },
+  "67013": {
+    "averageScore": 71,
+    "chapters": 33,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "id": 67013,
+    "idMal": 37013,
+    "popularity": 4722,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u604b\u67d3\u7d05\u8449",
+      "romaji": "Koisome Momiji"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671952,
+    "volumes": 4
+  },
+  "67027": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67027,
+    "idMal": 37027,
+    "popularity": 32,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u738b\u5b50\u69d8\u306f\u5145\u96fb\u4e2d",
+      "romaji": "Oujisama wa Juudenchuu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444905,
+    "volumes": 1
+  },
+  "67031": {
+    "averageScore": null,
+    "chapters": 11,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67031,
+    "idMal": 37031,
+    "popularity": 126,
+    "status": "FINISHED",
+    "title": {
+      "english": "My Celebrity Girlfriend",
+      "native": "\u30bb\u30ec\u2665\u30ab\u30ce",
+      "romaji": "Cele\u2665Kano"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444905,
+    "volumes": 1
+  },
+  "67039": {
+    "averageScore": null,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance",
+      "Sports"
+    ],
+    "id": 67039,
+    "idMal": 37039,
+    "popularity": 45,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c8\u30e9\u30d9\u30ea\u30f3\u30b0\u30fb\u30ac\u30fc\u30eb",
+      "romaji": "Traveling Girl"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444904,
+    "volumes": 1
+  },
+  "67049": {
+    "averageScore": 49,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67049,
+    "idMal": 37049,
+    "popularity": 133,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5ac1\u2642",
+      "romaji": "Yome \u2642"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671951,
+    "volumes": null
+  },
+  "67055": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67055,
+    "idMal": 37055,
+    "popularity": 24,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u591c\u306f\u30d2\u30df\u30c4\u306b..",
+      "romaji": "Yoru wa Himitsu ni..."
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444904,
+    "volumes": 1
+  },
+  "67059": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Supernatural"
+    ],
+    "id": 67059,
+    "idMal": 37059,
+    "popularity": 200,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5149\u306e\u6d77",
+      "romaji": "Hikari no Umi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444904,
+    "volumes": 1
+  },
+  "67061": {
+    "averageScore": null,
+    "chapters": 12,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67061,
+    "idMal": 37061,
+    "popularity": 98,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30de\u30f3\u30b4\u30fc\u306e\u6d99 \u5c0f\u7389\u30e6\u30ad\u77ed\u7de8\u96c6",
+      "romaji": "Kodama Yuki Tanpenshuu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514205,
+    "volumes": 2
+  },
+  "67063": {
+    "averageScore": null,
+    "chapters": 29,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67063,
+    "idMal": 37063,
+    "popularity": 48,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u79c1\u306e\u7d50\u5a5a\u5f0f!",
+      "romaji": "Watashi no Kekkonshiki!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514204,
+    "volumes": 1
+  },
+  "67065": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67065,
+    "idMal": 37065,
+    "popularity": 52,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u307e\u3048\u3068\u30c0\u30a4\u30ca\u30de\u30a4\u30c8!!",
+      "romaji": "Omae to Dynamite!!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791476189,
+    "volumes": 1
+  },
+  "67067": {
+    "averageScore": 71,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "id": 67067,
+    "idMal": 37067,
+    "popularity": 3583,
+    "status": "FINISHED",
+    "title": {
+      "english": "Prince of Recipes",
+      "native": "\u30ec\u30b7\u30d4\u306e\u738b\u5b50\u69d8",
+      "romaji": "Recipe no Ouji-sama"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792719169,
+    "volumes": 1
+  },
+  "67069": {
+    "averageScore": 64,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67069,
+    "idMal": 37069,
+    "popularity": 1869,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3042\u305f\u3057\u306e\u30d0\u30f3\u30d3",
+      "romaji": "Atashi no Bambi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444903,
+    "volumes": 1
+  },
+  "67085": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67085,
+    "idMal": 37085,
+    "popularity": 40,
+    "status": "FINISHED",
+    "title": {
+      "english": "Secret Thorns",
+      "native": "\u3072\u307f\u3064\u306e\u68d8",
+      "romaji": "Himitsu no Toge"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790787289,
+    "volumes": 1
+  },
+  "67091": {
+    "averageScore": 45,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "id": 67091,
+    "idMal": null,
+    "popularity": 278,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": null,
+      "romaji": "The City in the Sea"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791754289,
+    "volumes": null
+  },
+  "67093": {
+    "averageScore": null,
+    "chapters": 31,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "id": 67093,
+    "idMal": 37093,
+    "popularity": 49,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c9\u30e9\u30b4\u30f3\u30af\u30a8\u30b9\u30c8\u3000\u7cbe\u970a\u30eb\u30d3\u30b9\u4f1d\u8aac",
+      "romaji": "Dragon Quest: Seirei Rubis Densetsu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444903,
+    "volumes": 7
+  },
+  "67097": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67097,
+    "idMal": 37097,
+    "popularity": 104,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u306f\u305f\u3089\u304f\u2665\u304a\u3088\u3081\u3055\u3093",
+      "romaji": "Hataraku Oyome-san"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444903,
+    "volumes": null
+  },
+  "67101": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67101,
+    "idMal": 37101,
+    "popularity": 117,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": null,
+      "romaji": "Open Water!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444903,
+    "volumes": null
+  },
+  "67103": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67103,
+    "idMal": 37103,
+    "popularity": 44,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30dc\u30af\u306e\u306b\uff5e\u3065\u307e\u3055\u3093",
+      "romaji": "Boku no Niizuma-san"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444902,
+    "volumes": null
+  },
+  "67107": {
+    "averageScore": null,
+    "chapters": 41,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "id": 67107,
+    "idMal": 37107,
+    "popularity": 148,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "Do Da Dancin'!",
+      "romaji": "Do Da Dancin'!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444902,
+    "volumes": 9
+  },
+  "67109": {
+    "averageScore": 71,
+    "chapters": 22,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "id": 67109,
+    "idMal": 37109,
+    "popularity": 7529,
+    "status": "FINISHED",
+    "title": {
+      "english": "Prophecy",
+      "native": "\u4e88\u544a\u72af",
+      "romaji": "Yokokuhan"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792702970,
+    "volumes": 3
+  },
+  "67111": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "id": 67111,
+    "idMal": null,
+    "popularity": 116,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6a5f\u5de7\u7ae5\u5b50 \u30a6\u30eb\u30c6\u30a3\u30e2: \u30bc\u30ed",
+      "romaji": "Karakuridouji Ultimo: Zero"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791135828,
+    "volumes": null
+  },
+  "67115": {
+    "averageScore": null,
+    "chapters": 3,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 67115,
+    "idMal": 37115,
+    "popularity": 132,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u604b\u6975\u661f",
+      "romaji": "Koi Kyokusei"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444899,
+    "volumes": 1
+  },
+  "67119": {
+    "averageScore": null,
+    "chapters": 110,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "id": 67119,
+    "idMal": 37119,
+    "popularity": 136,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u308c\u306e\u30ad\u30f3\u30b0\u30c0\u30e0\uff5e\u7d76\u5bfe\u670d\u5f93\u5974\u96b7\u738b\u56fd\uff5e",
+      "romaji": "Ore no Kingdom: Zettai Fukujuu Dorei Oukoku"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514201,
+    "volumes": 12
+  },
+  "67123": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67123,
+    "idMal": 37123,
+    "popularity": 35,
+    "status": "FINISHED",
+    "title": {
+      "english": "Pilgrim's castle",
+      "native": "\u7345\u5b50\u3068\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "romaji": "Shishi to Cinderella"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444898,
+    "volumes": 1
+  },
+  "67125": {
+    "averageScore": null,
+    "chapters": 13,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67125,
+    "idMal": 37125,
+    "popularity": 31,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b3\u30f3\u30ca\u30aa\u30c8\u30ca\u30ce\u30aa\u30f3\u30ca\u30ce\u30b3",
+      "romaji": "Konna Otona no Onnanoko"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613831,
+    "volumes": 1
+  },
+  "67127": {
+    "averageScore": null,
+    "chapters": 14,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67127,
+    "idMal": 37127,
+    "popularity": 27,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5c0f\u3055\u306a\u604b\u306e\u7269\u8a9e",
+      "romaji": "Chiisana Koino Monogatari"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444898,
+    "volumes": 1
+  },
+  "67129": {
+    "averageScore": null,
+    "chapters": 104,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67129,
+    "idMal": 37129,
+    "popularity": 71,
+    "status": "FINISHED",
+    "title": {
+      "english": "Enoshima Waikiki Cafe",
+      "native": "\u6c5f\u306e\u5cf6\u30ef\u30a4\u30ad\u30ad\u98df\u5802",
+      "romaji": "Enoshima Waikiki Shokudou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514201,
+    "volumes": 11
+  },
+  "67131": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67131,
+    "idMal": 37131,
+    "popularity": 14,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u305d\u3088\u304b\u305c\u306e\u6728",
+      "romaji": "Soyokaze no Ki"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613831,
+    "volumes": 1
+  },
+  "67135": {
+    "averageScore": null,
+    "chapters": 3,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 67135,
+    "idMal": 37135,
+    "popularity": 37,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3060\u3051\u3069\u3001\u3042\u307e\u306e\u3058\u3083\u304f",
+      "romaji": "Dakedo, Amanojaku"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613831,
+    "volumes": 1
+  },
+  "67137": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67137,
+    "idMal": 37137,
+    "popularity": 5,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8a2d\u5b9a1000 \u51f6\u66b4\u6a5f\u7a2e\u8a2d\u5b9a\u653b\u7565\u7de8",
+      "romaji": "Settei 1000 Kyoubou Kishu Settei Kouryaku-hen"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613831,
+    "volumes": 1
+  },
+  "67139": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67139,
+    "idMal": 37139,
+    "popularity": 39,
+    "status": "RELEASING",
+    "title": {
+      "english": null,
+      "native": "\u5348\u540e\u85b0\u8863\u8349",
+      "romaji": "Afternoon Lavendar"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444898,
+    "volumes": null
+  },
+  "67151": {
+    "averageScore": 66,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 67151,
+    "idMal": 37151,
+    "popularity": 938,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u91d1\u6301\u3061\u541b\u3068\u8ca7\u4e4f\u541b",
+      "romaji": "Kanemochi-kun to Binbou-kun"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089871,
+    "volumes": 1
+  },
+  "67153": {
+    "averageScore": 57,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai",
+      "Romance"
+    ],
+    "id": 67153,
+    "idMal": 37153,
+    "popularity": 304,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d33\u58eb\u3068\u91ce\u826f\u72ac",
+      "romaji": "Shinshi to Norainu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792344954,
+    "volumes": 1
+  },
+  "67155": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67155,
+    "idMal": 37155,
+    "popularity": 83,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u604b\u3059\u308b\u864e\u306f\u30ad\u30b9\u3092\u3059\u308b",
+      "romaji": "Koisuru Tora wa Kiss wo Suru"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089871,
+    "volumes": 1
+  },
+  "67157": {
+    "averageScore": 52,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67157,
+    "idMal": 37157,
+    "popularity": 198,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3044\u3058\u308f\u308b\u306a\u4eba",
+      "romaji": "Ijiwaru na Hito"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089871,
+    "volumes": 1
+  },
+  "67163": {
+    "averageScore": 64,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 67163,
+    "idMal": 37163,
+    "popularity": 1935,
+    "status": "CANCELLED",
+    "title": {
+      "english": null,
+      "native": "\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6",
+      "romaji": "Date A Live"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671949,
+    "volumes": 1
+  },
+  "67179": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67179,
+    "idMal": 37179,
+    "popularity": 24,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u81c6\u75c5\u8005\u306b\u611b\u306e\u624b\u3092",
+      "romaji": "Okubyoumono ni Ai no Te wo"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613830,
+    "volumes": 1
+  },
+  "67181": {
+    "averageScore": 56,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67181,
+    "idMal": 37181,
+    "popularity": 305,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d1\u30b9\u30c8\u30fb\u30d8\u30f4\u30f3",
+      "romaji": "Past Heaven"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792710154,
+    "volumes": null
+  },
+  "67185": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67185,
+    "idMal": 37185,
+    "popularity": 8,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30bb\u30eb\u30ea\u30a2\u30f3\u30d6\u30eb\u30fc\u306e\u7a7a",
+      "romaji": "Cerulean Blue no Sora"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791135825,
+    "volumes": 1
+  },
+  "67189": {
+    "averageScore": 63,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 67189,
+    "idMal": 37189,
+    "popularity": 731,
+    "status": "FINISHED",
+    "title": {
+      "english": "Haganai: I Don\u2019t Have Many Friends \u2013 Now With 50% More Fail!",
+      "native": "\u50d5\u306f\u53cb\u9054\u304c\u5c11\u306a\u3044\u30b7\u30e7\u30dc\u30fc\u30f3\uff01",
+      "romaji": "Boku wa Tomodachi ga Sukunai Shobon!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671949,
+    "volumes": 1
+  },
+  "67195": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 67195,
+    "idMal": 37195,
+    "popularity": 38,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b8\u30e7\u30eb\u30ca\u30c0",
+      "romaji": "Jorunada"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444896,
+    "volumes": 1
+  },
+  "67201": {
+    "averageScore": 56,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67201,
+    "idMal": 37201,
+    "popularity": 265,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "BEAUTY STOCK",
+      "romaji": "BEAUTY STOCK"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089870,
+    "volumes": 1
+  },
+  "67211": {
+    "averageScore": 54,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67211,
+    "idMal": 37211,
+    "popularity": 253,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u541b\u306e\u611b\u3067\u3001\u3082\u3066\u306a\u3057\u3066",
+      "romaji": "Kimi no Ai de Motenashite"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444896,
+    "volumes": null
+  },
+  "67213": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67213,
+    "idMal": 37213,
+    "popularity": 122,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u738b\u5b50\u69d8\u30b5\u30de\u306e\u4e8b\u60c5\u3002",
+      "romaji": "Ouji-sama Sama no Jijou."
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444895,
+    "volumes": null
+  },
+  "67217": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67217,
+    "idMal": 37217,
+    "popularity": 104,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u4eee\u9762\u30ab\u30bf\u30eb\u30b7\u30b9",
+      "romaji": "Kamen Catharsis"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444895,
+    "volumes": null
+  },
+  "67219": {
+    "averageScore": 63,
+    "chapters": 27,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "id": 67219,
+    "idMal": 37219,
+    "popularity": 1649,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u72d0\u306e\u60aa\u9b54\u3068\u9ed2\u3044\u9b54\u5c0e\u66f8",
+      "romaji": "Kitsune no Akuma to Kuroi Madousho"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792714080,
+    "volumes": 4
+  },
+  "67223": {
+    "averageScore": null,
+    "chapters": 37,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 67223,
+    "idMal": 37223,
+    "popularity": 114,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u307e\u3093\u304c\u30fc\u308b!",
+      "romaji": "Mangirl!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791656211,
+    "volumes": 3
+  },
+  "67227": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Fantasy"
+    ],
+    "id": 67227,
+    "idMal": 37227,
+    "popularity": 76,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304b\u3057\u3053\u307f\u7533\u3059!",
+      "romaji": "Kashikomi Mousu!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089869,
+    "volumes": null
+  },
+  "67231": {
+    "averageScore": 64,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Drama"
+    ],
+    "id": 67231,
+    "idMal": 37231,
+    "popularity": 1024,
+    "status": "FINISHED",
+    "title": {
+      "english": "Forgotten Snow",
+      "native": "\u308f\u3059\u308c\u96ea",
+      "romaji": "Wasure Yuki"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671947,
+    "volumes": null
+  },
+  "67239": {
+    "averageScore": 56,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67239,
+    "idMal": 37239,
+    "popularity": 326,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u767e\u5408\u7f36Feuille",
+      "romaji": "Yurikan Feuille"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671947,
+    "volumes": 1
+  },
+  "67241": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "id": 67241,
+    "idMal": 37241,
+    "popularity": 186,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3086\u3081\u3088\u308a\u3059\u3066\u304d\u306a",
+      "romaji": "Yume yori Suteki na"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792260130,
+    "volumes": 1
+  },
+  "67245": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Supernatural"
+    ],
+    "id": 67245,
+    "idMal": 37245,
+    "popularity": 18,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30ea\u30a8\u30ca\u30a4\u6708\u66dc\u65e5",
+      "romaji": "Arienai Getsuyoubi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444893,
+    "volumes": 1
+  },
+  "67247": {
+    "averageScore": 54,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "id": 67247,
+    "idMal": 37247,
+    "popularity": 748,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d9\u30c4\u30ad\u30b9",
+      "romaji": "Betsukiss"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444893,
+    "volumes": 2
+  },
+  "67249": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67249,
+    "idMal": 37249,
+    "popularity": 14,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7518\u3044\u6200\u9396",
+      "romaji": "Amai Rensa"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613828,
+    "volumes": 1
+  },
+  "67251": {
+    "averageScore": 59,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [],
+    "id": 67251,
+    "idMal": 37251,
+    "popularity": 524,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a6\u30df\u30cb\u30bd\u30e9\u301cThe Ocean Meets The Sky",
+      "romaji": "Umi ni Sora"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671947,
+    "volumes": null
+  },
+  "67259": {
+    "averageScore": null,
+    "chapters": 11,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67259,
+    "idMal": 37259,
+    "popularity": 55,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30de\u30ea\u30a3\uff2d\uff21\uff38\uff01",
+      "romaji": "Marry Max!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444893,
+    "volumes": 2
+  },
+  "67267": {
+    "averageScore": 54,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 67267,
+    "idMal": 37267,
+    "popularity": 142,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ea\u30df\u30c3\u30bf\u2015",
+      "romaji": "Limiter"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671947,
+    "volumes": 1
+  },
+  "67275": {
+    "averageScore": 60,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67275,
+    "idMal": 37275,
+    "popularity": 659,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u96a3\u4eba\u306f\u8776",
+      "romaji": "Rinjin wa Chou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444893,
+    "volumes": 1
+  },
+  "67289": {
+    "averageScore": 60,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "id": 67289,
+    "idMal": 37289,
+    "popularity": 639,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "MASTER\u30ad\u30fc\u30c8\u30f3 Re\u30de\u30b9\u30bf\u30fc",
+      "romaji": "MASTER Keaton Remaster"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792674166,
+    "volumes": 1
+  },
+  "67293": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67293,
+    "idMal": 37293,
+    "popularity": 25,
+    "status": "FINISHED",
+    "title": {
+      "english": "Valerie",
+      "native": "\u30aa\u30fc\u30c1\u30e3\u30fc\u30c9\u30fb\u30f4\u30a1\u30ec\u30fc\u30fb\u4e09\u59c9\u59b9\u7269\u8a9e",
+      "romaji": "Orchid Valley Sanshimai Monogatari"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444892,
+    "volumes": 3
+  },
+  "67299": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67299,
+    "idMal": 37299,
+    "popularity": 12,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6708\u3068\u86c7",
+      "romaji": "Tsuki to Hebi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613826,
+    "volumes": 1
+  },
+  "67301": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67301,
+    "idMal": 37301,
+    "popularity": 14,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d0\u30c8\u30e9\u30fc\u306e\u6182\u9b31",
+      "romaji": "Butler no Yuuutsu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790568181,
+    "volumes": 1
+  },
+  "67303": {
+    "averageScore": 66,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action"
+    ],
+    "id": 67303,
+    "idMal": 37303,
+    "popularity": 1402,
+    "status": "FINISHED",
+    "title": {
+      "english": "Rurouni Kenshin: Restoration",
+      "native": "\u308b\u308b\u308d\u3046\u306b\u5263\u5fc3 -\u7279\u7b46\u7248-",
+      "romaji": "Rurouni Kenshin: Tokuhitsu-ban"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792344951,
+    "volumes": 2
+  },
+  "67305": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67305,
+    "idMal": 37305,
+    "popularity": 13,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u4e0d\u6a5f\u5acc\u306a\u8a98\u60d1",
+      "romaji": "Fukigen na Yuuwaku"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613826,
+    "volumes": 1
+  },
+  "67327": {
+    "averageScore": null,
+    "chapters": 45,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "id": 67327,
+    "idMal": 37327,
+    "popularity": 32,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ef\u30f3\u30c0\u30fc\u30b9\u30af\u30fc\u30eb\u30dc\u30fc\u30a4",
+      "romaji": "Wonder School Boy"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613826,
+    "volumes": 8
+  },
+  "67335": {
+    "averageScore": null,
+    "chapters": 42,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "id": 67335,
+    "idMal": 37335,
+    "popularity": 310,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b7\u30e5\u30f4\u30a1\u30eb\u30c4\u30a7\u30b9\u30de\u30fc\u30b1\u30f3",
+      "romaji": "Schwarzesmarken"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791656206,
+    "volumes": 7
+  },
+  "67347": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Sports"
+    ],
+    "id": 67347,
+    "idMal": 37347,
+    "popularity": 46,
+    "status": "RELEASING",
+    "title": {
+      "english": null,
+      "native": "\u3050\u3063\u3058\u3087\u3076!",
+      "romaji": "Good Job!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444892,
+    "volumes": null
+  },
+  "67349": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Sports"
+    ],
+    "id": 67349,
+    "idMal": 37349,
+    "popularity": 40,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7f8e\u6674\u2665\u30e9\u30a4\u30b8\u30f3\u30b0",
+      "romaji": "Miharu Rising"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444892,
+    "volumes": 5
+  },
+  "67351": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67351,
+    "idMal": 37351,
+    "popularity": 20,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u304b\u308f\u308a\u98ef\u8535",
+      "romaji": "Okawari Hanzou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613825,
+    "volumes": 11
+  },
+  "67353": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67353,
+    "idMal": 37353,
+    "popularity": 34,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u3055\u306a\u306a\u3058\u307f ~\u30ca\u30cb\u30ef\u604b\u3057\u3050\u308c~",
+      "romaji": "Osananajimi - Naniwa Koi Shigure"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613825,
+    "volumes": 1
+  },
+  "67367": {
+    "averageScore": null,
+    "chapters": 18,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 67367,
+    "idMal": 37367,
+    "popularity": 180,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ab\u30ed\u30f3 \u30b5\u30a4\u30d5\u30a9\u30f3",
+      "romaji": "Charon Siphon"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444891,
+    "volumes": 3
+  },
+  "67371": {
+    "averageScore": null,
+    "chapters": 51,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 67371,
+    "idMal": 37371,
+    "popularity": 262,
+    "status": "FINISHED",
+    "title": {
+      "english": "Full Metal Panic! Short Stories",
+      "native": "\u30d5\u30eb\u30e1\u30bf\u30eb\u30fb\u30d1\u30cb\u30c3\u30af! \u77ed\u7de8\u96c6",
+      "romaji": "Full Metal Panic!: Tanpenshuu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444891,
+    "volumes": 9
+  },
+  "67373": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 67373,
+    "idMal": 37373,
+    "popularity": 144,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d5\u30eb\u30e1\u30bf\u30eb\u30fb\u30d1\u30cb\u30c3\u30af\uff01 \u2015\u30b5\u30a4\u30c9\u30a2\u30fc\u30e0\u30ba\u2015",
+      "romaji": "Full Metal Panic! Side Arms"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790787281,
+    "volumes": 2
+  },
+  "67375": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mahou Shoujo",
+      "Supernatural"
+    ],
+    "id": 67375,
+    "idMal": 37375,
+    "popularity": 136,
+    "status": "FINISHED",
+    "title": {
+      "english": "Scissor Sisters",
+      "native": "\u30b7\u30b6\u30fc\u30b7\u30b9\u30bf\u30fc\u30ba",
+      "romaji": "Scissor Sisters"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791909223,
+    "volumes": 2
+  },
+  "67379": {
+    "averageScore": 56,
+    "chapters": 250,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "id": 67379,
+    "idMal": 37379,
+    "popularity": 296,
+    "status": "FINISHED",
+    "title": {
+      "english": "Shoku King",
+      "native": "\u98df\u30ad\u30f3\u30b0",
+      "romaji": "Shoku King"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444891,
+    "volumes": 27
+  },
+  "67385": {
+    "averageScore": 66,
+    "chapters": 73,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67385,
+    "idMal": 37385,
+    "popularity": 1206,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30cf\u30c1\u30df\u30c4\u306b\u306f\u3064\u3053\u3044",
+      "romaji": "Hachimitsu ni Hatsukoi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671945,
+    "volumes": 12
+  },
+  "67387": {
+    "averageScore": 53,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "id": 67387,
+    "idMal": 37387,
+    "popularity": 216,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u306d\u3058\u307e\u304d\u661f\u3068\u30a2\u30aa\u30a4\u30bd\u30e9",
+      "romaji": "Nejimakiboshi to Aoi Sora"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444890,
+    "volumes": 1
+  },
+  "67393": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67393,
+    "idMal": null,
+    "popularity": 42,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5ec3\u4eba\u7cfb\u5f7c\u5973",
+      "romaji": "Haijin Kei Kanojo"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444890,
+    "volumes": null
+  },
+  "67397": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 67397,
+    "idMal": 37397,
+    "popularity": 23,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Bridegroom\u2019s Bargain",
+      "native": "\u82b1\u5a7f\u306e\u7d04\u675f",
+      "romaji": "Hanamuko no Yakusoku"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444890,
+    "volumes": 2
+  },
+  "67403": {
+    "averageScore": 59,
+    "chapters": 32,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67403,
+    "idMal": 37403,
+    "popularity": 692,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5973\u58f0\u7537\u5b50",
+      "romaji": "Josei Danshi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671945,
+    "volumes": 5
+  },
+  "67407": {
+    "averageScore": 53,
+    "chapters": 20,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67407,
+    "idMal": 37407,
+    "popularity": 313,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u9752\u6625\u30ed\u30b1\u30fc\u30b7\u30e7\u30f3",
+      "romaji": "Seishun Location"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671945,
+    "volumes": 3
+  },
+  "67413": {
+    "averageScore": null,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "id": 67413,
+    "idMal": 37413,
+    "popularity": 171,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7551\u5065\u4e8c\u90ce\u521d\u671f\u4f5c\u54c1\u96c6 \u30cf\u30e4\u30c6\u306e\u3054\u3068\u304f!\u306e\u524d",
+      "romaji": "Hata Kenjiro Shoki Sakuhinshuu: Hayate no Gotoku! no Mae"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444889,
+    "volumes": 1
+  },
+  "67419": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 67419,
+    "idMal": 37419,
+    "popularity": 230,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30de\u30d6\u30e9\u30f4 \u30aa\u30eb\u30bf\u30cd\u30a4\u30c6\u30a3\u30f4 \u30c8\u30fc\u30bf\u30eb\u30fb\u30a4\u30af\u30ea\u30d7\u30b9",
+      "romaji": "Muv-Luv Alternative: Total Eclipse"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791656194,
+    "volumes": 6
+  },
+  "67425": {
+    "averageScore": 58,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Supernatural"
+    ],
+    "id": 67425,
+    "idMal": 37425,
+    "popularity": 584,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Angel of Elhamburg",
+      "native": "\u30a8\u30eb\u30cf\u30f3\u30d6\u30eb\u30b0\u306e\u5929\u4f7f",
+      "romaji": "Elhanburg no Tenshi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671944,
+    "volumes": 1
+  },
+  "67427": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67427,
+    "idMal": 37427,
+    "popularity": 47,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ed\u30b9\u30c8\u30ac\u30fc\u30eb\u306f\u604b\u3092\u3059\u308b",
+      "romaji": "Lost Girl wa Koi wo Suru"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444888,
+    "volumes": 4
+  },
+  "67429": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67429,
+    "idMal": 37429,
+    "popularity": 100,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ab\u30ec\u3068\u79c1\u306e\u3042\u3093\u306a\u3053\u3068",
+      "romaji": "Kare to Watashi no Anna Koto..."
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444888,
+    "volumes": 1
+  },
+  "67433": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 67433,
+    "idMal": 37433,
+    "popularity": 96,
+    "status": "RELEASING",
+    "title": {
+      "english": null,
+      "native": "\u7dcb\u8272\u5341\u5b57",
+      "romaji": "Scarlet Cross"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444888,
+    "volumes": null
+  },
+  "67435": {
+    "averageScore": null,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67435,
+    "idMal": 37435,
+    "popularity": 41,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u541b\u3055\u3048\u3044\u306a\u3051\u308c\u3070",
+      "romaji": "Kimi sae Inakereba"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791218617,
+    "volumes": 1
+  },
+  "67437": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67437,
+    "idMal": 37437,
+    "popularity": 12,
+    "status": "FINISHED",
+    "title": {
+      "english": "Knight's Terms",
+      "native": "\u9a0e\u58eb\u306e\u6761\u4ef6",
+      "romaji": "Kishi no Jouken"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613821,
+    "volumes": 1
+  },
+  "67439": {
+    "averageScore": null,
+    "chapters": 13,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "id": 67439,
+    "idMal": 37439,
+    "popularity": 501,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b5\u30ab\u30b5\u30de\u306e\u30d1\u30c6\u30de another side",
+      "romaji": "Sakasama no Patema: Another Side"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792168260,
+    "volumes": 1
+  },
+  "67441": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67441,
+    "idMal": 37441,
+    "popularity": 18,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u82b1\u5ac1\u306f\u6d99\u306b\u6fe1\u308c\u308b",
+      "romaji": "Hanayome wa Namida ni Nureru"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613820,
+    "volumes": 2
+  },
+  "67443": {
+    "averageScore": null,
+    "chapters": 12,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Mystery"
+    ],
+    "id": 67443,
+    "idMal": 37443,
+    "popularity": 27,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Tales from the Far East",
+      "native": "\u6975\u6771\u7dba\u8b5a",
+      "romaji": "Kyokutou Kitan"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613820,
+    "volumes": 3
+  },
+  "67449": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67449,
+    "idMal": 37449,
+    "popularity": 60,
+    "status": "FINISHED",
+    "title": {
+      "english": "Practice Husband",
+      "native": "\u604b\u3092\u6559\u3048\u3066",
+      "romaji": "Koi wo Oshiete"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444888,
+    "volumes": 1
+  },
+  "67461": {
+    "averageScore": null,
+    "chapters": 18,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 67461,
+    "idMal": 37461,
+    "popularity": 53,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u611b\u4e0a300\u6b72\u7684\u5973\u5b69",
+      "romaji": "Falls in Love with 300-Year-Old Girl"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444887,
+    "volumes": 3
+  },
+  "67463": {
+    "averageScore": null,
+    "chapters": 24,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "id": 67463,
+    "idMal": 37463,
+    "popularity": 202,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u83e9\u63d0\u6a39\u5bee\u306e\u30a2\u30ea\u30a2",
+      "romaji": "Linden Hall no Aria"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444887,
+    "volumes": 4
+  },
+  "67465": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 67465,
+    "idMal": 37465,
+    "popularity": 31,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7070\u306b\u306a\u308b\u307e\u3067",
+      "romaji": "Hai ni Naru Made"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444887,
+    "volumes": 1
+  },
+  "67471": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "id": 67471,
+    "idMal": 37471,
+    "popularity": 16,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b8\u30e7\u30ab\u30c8\u30fc\u30ec",
+      "romaji": "Giocatore"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613819,
+    "volumes": 1
+  },
+  "67473": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "id": 67473,
+    "idMal": 37473,
+    "popularity": 276,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d6\u30e9\u30c3\u30c9\u30fb\u30b7\u30fc\u3000\u30b6\u30fb\u30e9\u30b9\u30c8\u30c0\u30fc\u30af",
+      "romaji": "Blood-C: The Last Dark"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792456697,
+    "volumes": 1
+  },
+  "67475": {
+    "averageScore": null,
+    "chapters": 12,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67475,
+    "idMal": 37475,
+    "popularity": 57,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u975e\u5e38\u968e\u6bb5",
+      "romaji": "Hijou Kaidan"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671943,
+    "volumes": 1
+  },
+  "67477": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67477,
+    "idMal": 37477,
+    "popularity": 205,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30ca\u30b6\u30fc\u30b9\u30ab\u30a4",
+      "romaji": "Another Sky"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671943,
+    "volumes": 1
+  },
+  "67483": {
+    "averageScore": null,
+    "chapters": 16,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 67483,
+    "idMal": 37483,
+    "popularity": 90,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30aa\u30ec\u306e\u5b50\u3067\u3059\u304b?",
+      "romaji": "Ore no Ko desu ka?"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613818,
+    "volumes": 5
+  },
+  "67485": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67485,
+    "idMal": null,
+    "popularity": 58,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c1\u30c1\u30f3\u30d7\u30a4\u30d7\u30a4",
+      "romaji": "Chichin Pui Pui"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791394977,
+    "volumes": null
+  },
+  "67487": {
+    "averageScore": 55,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 67487,
+    "idMal": 37487,
+    "popularity": 359,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30e1\u30c3\u3066\u3055\u308c\u3066\u30ad\u30e3\u30c3",
+      "romaji": "Mette Sarete Kya"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671943,
+    "volumes": 1
+  },
+  "67489": {
+    "averageScore": 68,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67489,
+    "idMal": 37489,
+    "popularity": 1353,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d14\u60c5\u30c9\u30ed\u30c3\u30d7.",
+      "romaji": "Junjou Drop"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671943,
+    "volumes": 1
+  },
+  "67495": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 67495,
+    "idMal": 37495,
+    "popularity": 80,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u4e59\u5973\u306a\u3067\u3057\u3053\u604b\u624b\u5e16",
+      "romaji": "Otome Nadeshiko Koi Techou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791909215,
+    "volumes": 2
+  },
+  "67499": {
+    "averageScore": 67,
+    "chapters": 11,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67499,
+    "idMal": 37499,
+    "popularity": 728,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3086\u308a\u3086\u308a",
+      "romaji": "Yuri Yuri"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792731721,
+    "volumes": 2
+  },
+  "67503": {
+    "averageScore": 54,
+    "chapters": 33,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "id": 67503,
+    "idMal": 37503,
+    "popularity": 526,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7570\u5f62\u4eba\u304a\u306b\u82e5\u4e38",
+      "romaji": "Igyoujin Oniwakamaru"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514190,
+    "volumes": 4
+  },
+  "67505": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67505,
+    "idMal": 37505,
+    "popularity": 28,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u611b\u304c\u306a\u3051\u308c\u3070",
+      "romaji": "Ai ga Nakereba"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444885,
+    "volumes": 1
+  },
+  "67507": {
+    "averageScore": 63,
+    "chapters": 68,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 67507,
+    "idMal": 37507,
+    "popularity": 2199,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6b63\u3057\u3044\u30b3\u30c9\u30e2\u306e\u4f5c\u308a\u65b9\uff01",
+      "romaji": "Tadashii Kodomo no Tsukurikata!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444885,
+    "volumes": 7
+  },
+  "67511": {
+    "averageScore": null,
+    "chapters": 60,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "id": 67511,
+    "idMal": 37511,
+    "popularity": 129,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6771\u4eac\u30ab\u30e9\u30b9",
+      "romaji": "Tokyo Karasu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613816,
+    "volumes": 10
+  },
+  "67519": {
+    "averageScore": 66,
+    "chapters": 21,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67519,
+    "idMal": 37519,
+    "popularity": 299,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u604b\u3068\u306f\u547c\u3079\u306a\u3044",
+      "romaji": "Koi to wa Yobenai"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089862,
+    "volumes": 3
+  },
+  "67521": {
+    "averageScore": 53,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Supernatural"
+    ],
+    "id": 67521,
+    "idMal": 37521,
+    "popularity": 199,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30bb\u30c8\u306e\u304a\u5e97\u306e\u304a\u5ba2\u69d8\u3002",
+      "romaji": "Seto no Omise no Okyakusama."
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671942,
+    "volumes": null
+  },
+  "67523": {
+    "averageScore": 80,
+    "chapters": 146,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Comedy",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 67523,
+    "idMal": 37523,
+    "popularity": 7782,
+    "status": "FINISHED",
+    "title": {
+      "english": "Date A Live",
+      "native": "\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6",
+      "romaji": "Date A Live"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792749682,
+    "volumes": 22
+  },
+  "67525": {
+    "averageScore": 72,
+    "chapters": 42,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "id": 67525,
+    "idMal": 37525,
+    "popularity": 1504,
+    "status": "FINISHED",
+    "title": {
+      "english": "Devil Survivor",
+      "native": "\u30c7\u30d3\u30eb\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "romaji": "Devil Survivor"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671942,
+    "volumes": 8
+  },
+  "67529": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 67529,
+    "idMal": null,
+    "popularity": 101,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30eb\u30fc\u30c9\u30f4\u30a3\u30c3\u30d2\u5e7b\u60f3\u66f2\u300c\u4eba\u9b5a\u59eb\u300d",
+      "romaji": "Ludwig Gensoukyoku: La Petite Sirene"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444884,
+    "volumes": null
+  },
+  "67533": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Drama"
+    ],
+    "id": 67533,
+    "idMal": null,
+    "popularity": 83,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b7\u30ac\u30ec\u30c3\u30c8\u2260\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8",
+      "romaji": "Cigarettes \u2260 Chocolate"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613813,
+    "volumes": null
+  },
+  "67543": {
+    "averageScore": 57,
+    "chapters": 15,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Horror",
+      "Psychological",
+      "Supernatural"
+    ],
+    "id": 67543,
+    "idMal": 37543,
+    "popularity": 1610,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c8\u30ab\u30b2\u306e\u738b",
+      "romaji": "Tokage no Ou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671942,
+    "volumes": 3
+  },
+  "67545": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67545,
+    "idMal": null,
+    "popularity": 51,
+    "status": "FINISHED",
+    "title": {
+      "english": "Recalculation",
+      "native": null,
+      "romaji": "Recalculation"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613813,
+    "volumes": null
+  },
+  "67555": {
+    "averageScore": 53,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 67555,
+    "idMal": 37555,
+    "popularity": 136,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u767d\u3044\u3053\u3068\u304c\u591a\u3044\u30c9\u30ec\u30b9",
+      "romaji": "Shiroi Koto ga Ooi Dress"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444883,
+    "volumes": null
+  },
+  "67561": {
+    "averageScore": 61,
+    "chapters": 24,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "id": 67561,
+    "idMal": 37561,
+    "popularity": 1517,
+    "status": "FINISHED",
+    "title": {
+      "english": "Devilman Grimoire",
+      "native": "\u30c7\u30d3\u30eb\u30de\u30f3G",
+      "romaji": "Devilman G"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671941,
+    "volumes": 5
+  },
+  "67563": {
+    "averageScore": 69,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "id": 67563,
+    "idMal": 37563,
+    "popularity": 14830,
+    "status": "RELEASING",
+    "title": {
+      "english": "Terra Formars",
+      "native": "\u30c6\u30e9\u30d5\u30a9\u30fc\u30de\u30fc\u30ba",
+      "romaji": "Terra Formars"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792692163,
+    "volumes": null
+  },
+  "67565": {
+    "averageScore": 75,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Sports"
+    ],
+    "id": 67565,
+    "idMal": 37565,
+    "popularity": 3491,
+    "status": "RELEASING",
+    "title": {
+      "english": "10 DANCE",
+      "native": "10DANCE",
+      "romaji": "10DANCE"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792676967,
+    "volumes": null
+  },
+  "67567": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67567,
+    "idMal": 37567,
+    "popularity": 200,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u604b\u611b\u305b\u308c\u3076\u308c\u30fc\u3057\u3087\u3093",
+      "romaji": "Renai Celebration"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444880,
+    "volumes": 1
+  },
+  "67577": {
+    "averageScore": 53,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai",
+      "Romance"
+    ],
+    "id": 67577,
+    "idMal": 37577,
+    "popularity": 378,
+    "status": "FINISHED",
+    "title": {
+      "english": "Kakushidere: Hidden Love",
+      "native": "\u304b\u304f\u3057\u30c7\u30ec",
+      "romaji": "Kakushi Dere"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792168256,
+    "volumes": 1
+  },
+  "67583": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67583,
+    "idMal": 37583,
+    "popularity": 139,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6b63\u3057\u3044\u6027\u6559\u80b2",
+      "romaji": "Tadashii Seikyouiku"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444880,
+    "volumes": null
+  },
+  "67585": {
+    "averageScore": 60,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 67585,
+    "idMal": 37585,
+    "popularity": 757,
+    "status": "FINISHED",
+    "title": {
+      "english": "The Wizard and His Fairy",
+      "native": "\u9727\u7c60\u59eb\u3068\u9b54\u6cd5\u4f7f\u3044",
+      "romaji": "Kirikagohime to Mahou Tsukai"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671941,
+    "volumes": 2
+  },
+  "67587": {
+    "averageScore": 50,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "id": 67587,
+    "idMal": 37587,
+    "popularity": 178,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u9810\u3051\u672c\u5c4b",
+      "romaji": "Azuke Honya"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791994770,
+    "volumes": 1
+  },
+  "67589": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Fantasy"
+    ],
+    "id": 67589,
+    "idMal": 37589,
+    "popularity": 11,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8d0b\u4f5c\u602a\u76d7\u30b0\u30ea\u30d5\u30a3\u30b9\u4f2f\u7235",
+      "romaji": "Gansaku Kaitou Griffith Hakushaku"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613810,
+    "volumes": 1
+  },
+  "67595": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67595,
+    "idMal": 37595,
+    "popularity": 24,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30e0\u30ea\u3092\u627f\u77e5\u3067\u604b\u4eba\u3067\u3059",
+      "romaji": "Muri wo Shouchi de Koibito desu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089855,
+    "volumes": 1
+  },
+  "67599": {
+    "averageScore": 62,
+    "chapters": 15,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Music",
+      "Sci-Fi"
+    ],
+    "id": 67599,
+    "idMal": 37599,
+    "popularity": 844,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2",
+      "romaji": "Senki Zesshou Symphogear"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089854,
+    "volumes": 3
+  },
+  "67601": {
+    "averageScore": 60,
+    "chapters": 16,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "id": 67601,
+    "idMal": 37601,
+    "popularity": 3006,
+    "status": "FINISHED",
+    "title": {
+      "english": "Barrage",
+      "native": "\u6226\u661f\u306e\u30d0\u30eb\u30b8",
+      "romaji": "Sensei no Barrage"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444879,
+    "volumes": 2
+  },
+  "67603": {
+    "averageScore": 51,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 67603,
+    "idMal": 37603,
+    "popularity": 145,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u8ab0\u304b\u304c\u8ab0\u304b\u306b\u604b\u3057\u3066\u308b",
+      "romaji": "Dareka ga Dareka ni Koishiteru"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444879,
+    "volumes": null
+  },
+  "67611": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Mystery",
+      "Romance"
+    ],
+    "id": 67611,
+    "idMal": 37611,
+    "popularity": 26,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ac\u30fc\u30c7\u30a3\u30a2\u30f3\u30fb\u30ac\u30fc\u30c7\u30f3~\u8b77\u308a\u4eba\u306e\u5ead~",
+      "romaji": "Guardian Garden - Mamori Hito no Niwa"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444879,
+    "volumes": 2
+  },
+  "67617": {
+    "averageScore": 60,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67617,
+    "idMal": 37617,
+    "popularity": 556,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ab\u3099\u30fc\u30eb\u30b9\u3099\u30a4\u30f3\u30b5\u3099\u30d5\u30ec\u30fc\u30e0",
+      "romaji": "Girls in the Frame"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792742530,
+    "volumes": null
+  },
+  "67619": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67619,
+    "idMal": 37619,
+    "popularity": 63,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ac\u30e0\u30b7\u30e3\u30e9\u2605\u30cf\u30fc\u30c8\u2605\u30d3\u30fc\u30c8",
+      "romaji": "Gamushapa Heart Beat"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444878,
+    "volumes": null
+  },
+  "67631": {
+    "averageScore": 57,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "id": 67631,
+    "idMal": 37631,
+    "popularity": 1423,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30e4\u30f3\u304b\u306e\uff01",
+      "romaji": "Yankano!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671940,
+    "volumes": 1
+  },
+  "67633": {
+    "averageScore": 69,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67633,
+    "idMal": 37633,
+    "popularity": 508,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3055\u3093\u306b\u3093\u3050\u3089\u3057",
+      "romaji": "Sannin Gurashi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792717340,
+    "volumes": 1
+  },
+  "67635": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67635,
+    "idMal": 37635,
+    "popularity": 21,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u604b\u306e\u5fae\u71b1\u304c\u3055\u3081\u306a\u304f\u3066",
+      "romaji": "Koi no Binetsu ga Samenakute"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791048298,
+    "volumes": 1
+  },
+  "67637": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67637,
+    "idMal": 37637,
+    "popularity": 19,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30df\u30e9\u30af\u30eb\u3060\u3068\u304b\u604b\u3060\u3068\u304b",
+      "romaji": "Miracle Daitoka Koi Daitoka"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613809,
+    "volumes": 1
+  },
+  "67639": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67639,
+    "idMal": 37639,
+    "popularity": 22,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3080\u304f\u308f\u308c\u305f\u3044\u306a\u3002",
+      "romaji": "Mukuwareta Ina"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613809,
+    "volumes": 1
+  },
+  "67641": {
+    "averageScore": 71,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67641,
+    "idMal": 37641,
+    "popularity": 2428,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d14\u6f54\u30c9\u30ed\u30c3\u30d7",
+      "romaji": "Junketsu Drop"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089852,
+    "volumes": 1
+  },
+  "67651": {
+    "averageScore": 52,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67651,
+    "idMal": 37651,
+    "popularity": 252,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": null,
+      "romaji": "Lolicon Special"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514175,
+    "volumes": 6
+  },
+  "67655": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67655,
+    "idMal": 37655,
+    "popularity": 119,
+    "status": "FINISHED",
+    "title": {
+      "english": "Do You Like Me?",
+      "native": "\u30a2\u30c0\u30eb\u30c8\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc\u306f\u304a\u597d\u304d\uff1f",
+      "romaji": "Adult Teacher wa Osuki?"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089852,
+    "volumes": 1
+  },
+  "67663": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67663,
+    "idMal": 37663,
+    "popularity": 48,
+    "status": "FINISHED",
+    "title": {
+      "english": "To Marry a Stranger",
+      "native": "\u904b\u547d\u306e\u304a\u76f8\u624b\u306f\uff1f",
+      "romaji": "Unmei no Oaite wa?"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444876,
+    "volumes": 1
+  },
+  "67665": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67665,
+    "idMal": 37665,
+    "popularity": 24,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30cd\u30a4\u30d3\u30fc\u2606NATS\uff01",
+      "romaji": "Navy Nats!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444876,
+    "volumes": null
+  },
+  "67667": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67667,
+    "idMal": 37667,
+    "popularity": 34,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6771\u4eac\u30a6\u30e9\u30e9",
+      "romaji": "Tokyo Urara"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444875,
+    "volumes": 5
+  },
+  "67669": {
+    "averageScore": null,
+    "chapters": 21,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 67669,
+    "idMal": 37669,
+    "popularity": 299,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3042\u3044\u3048\u3059\u3063!",
+      "romaji": "IS!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671939,
+    "volumes": 2
+  },
+  "67671": {
+    "averageScore": null,
+    "chapters": 37,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 67671,
+    "idMal": 37671,
+    "popularity": 10,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\uc154\ud2c0\ub9e8",
+      "romaji": "Shuttle Man"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613808,
+    "volumes": 1
+  },
+  "67677": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "id": 67677,
+    "idMal": 37677,
+    "popularity": 193,
+    "status": "CANCELLED",
+    "title": {
+      "english": null,
+      "native": "13GAME",
+      "romaji": "13 Game"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444875,
+    "volumes": 1
+  },
+  "67679": {
+    "averageScore": null,
+    "chapters": 22,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "id": 67679,
+    "idMal": 37679,
+    "popularity": 378,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7d42\u672b\u306e\u30de\u30ea\u30b9\u30c6\u30e9",
+      "romaji": "Shuumatsu no Maristella"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791754269,
+    "volumes": 4
+  },
+  "67683": {
+    "averageScore": 73,
+    "chapters": 230,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 67683,
+    "idMal": 37683,
+    "popularity": 1865,
+    "status": "FINISHED",
+    "title": {
+      "english": "Mobile Suit Gundam Thunderbolt",
+      "native": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
+      "romaji": "Kidou Senshi Gundam Thunderbolt"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792738914,
+    "volumes": 27
+  },
+  "67701": {
+    "averageScore": 57,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "id": 67701,
+    "idMal": 37701,
+    "popularity": 230,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5217\u4f1d",
+      "romaji": "Super Robot Retsuden"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792168253,
+    "volumes": 1
+  },
+  "67703": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 67703,
+    "idMal": 37703,
+    "popularity": 79,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30cf\u30fc\u30c8\u30b9\u30c6\u30a3\u30fc\u30e9\u30fc",
+      "romaji": "Heart Stealer"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444874,
+    "volumes": null
+  },
+  "67705": {
+    "averageScore": 76,
+    "chapters": 47,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67705,
+    "idMal": 37705,
+    "popularity": 10694,
+    "status": "FINISHED",
+    "title": {
+      "english": "Cheese in the Trap Season 1",
+      "native": "\uce58\uc988\uc778\ub354\ud2b8\ub7a9 \uc2dc\uc98c1",
+      "romaji": "Cheese in the Trap Season 1"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792717340,
+    "volumes": 6
+  },
+  "67707": {
+    "averageScore": 82,
+    "chapters": 44,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67707,
+    "idMal": 37707,
+    "popularity": 22844,
+    "status": "FINISHED",
+    "title": {
+      "english": "Your Lie in April",
+      "native": "\u56db\u6708\u306f\u541b\u306e\u5618",
+      "romaji": "Shigatsu wa Kimi no Uso"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792749730,
+    "volumes": 11
+  },
+  "67729": {
+    "averageScore": null,
+    "chapters": 1691,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Psychological",
+      "Thriller"
+    ],
+    "id": 67729,
+    "idMal": 37729,
+    "popularity": 269,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30df\u30ca\u30df\u306e\u5e1d\u738b",
+      "romaji": "Minami no Teiou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792350189,
+    "volumes": 188
+  },
+  "67731": {
+    "averageScore": 54,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "id": 67731,
+    "idMal": 37731,
+    "popularity": 203,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": null,
+      "romaji": "Carpe Diem"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444869,
+    "volumes": null
+  },
+  "67737": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67737,
+    "idMal": 37737,
+    "popularity": 25,
+    "status": "CANCELLED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u3067\u3093",
+      "romaji": "Oden"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613806,
+    "volumes": 1
+  },
+  "67745": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "id": 67745,
+    "idMal": 37745,
+    "popularity": 56,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3057\u307e\u3057\u307e\u3048\u3076\u308a\u3067\u3043",
+      "romaji": "Shima Shima Everyday"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613806,
+    "volumes": 4
+  },
+  "67749": {
+    "averageScore": 50,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Supernatural"
+    ],
+    "id": 67749,
+    "idMal": 37749,
+    "popularity": 178,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5922\u58f2\u308a",
+      "romaji": "Yume Uri"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671937,
+    "volumes": null
+  },
+  "67753": {
+    "averageScore": 54,
+    "chapters": 15,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Horror",
+      "Romance",
+      "Supernatural"
+    ],
+    "id": 67753,
+    "idMal": 37753,
+    "popularity": 481,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7a62\u7ffc\u306e\u30e6\u30fc\u30b9\u30c6\u30a3\u30a2",
+      "romaji": "Aiyoku no Eustia"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671937,
+    "volumes": 2
+  },
+  "67755": {
+    "averageScore": 83,
+    "chapters": 290,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "id": 67755,
+    "idMal": 37755,
+    "popularity": 16865,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6589\u6728\u6960\u96c4\u306e\u03a8\u96e3",
+      "romaji": "Saiki Kusuo no \u03a8-nan"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792719169,
+    "volumes": 26
+  },
+  "67761": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67761,
+    "idMal": 37761,
+    "popularity": 58,
+    "status": "FINISHED",
+    "title": {
+      "english": "Embrace & Bloom",
+      "native": "\u3064\u3064\u3093\u3067\u3072\u3089\u3044\u3066",
+      "romaji": "Tsutsun de Hiraite"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514168,
+    "volumes": 1
+  },
+  "67763": {
+    "averageScore": null,
+    "chapters": 20,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Hentai"
+    ],
+    "id": 67763,
+    "idMal": 37763,
+    "popularity": 57,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c9\u30df\u30ca\u30f3\u30b9",
+      "romaji": "Dominance"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792168250,
+    "volumes": 2
+  },
+  "67771": {
+    "averageScore": null,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67771,
+    "idMal": 37771,
+    "popularity": 115,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u75f4\u5973",
+      "romaji": "Chijo"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444866,
+    "volumes": 1
+  },
+  "67777": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67777,
+    "idMal": 37777,
+    "popularity": 159,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u59c9\u3061\u3083\u3093\uff01\u5929\u56fd\u2665",
+      "romaji": "Onee-chan! Tengoku\u2665"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514167,
+    "volumes": 1
+  },
+  "67783": {
+    "averageScore": null,
+    "chapters": 42,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "id": 67783,
+    "idMal": 37783,
+    "popularity": 605,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5883\u754c\u7dda\u4e0a\u306e\u30db\u30e9\u30a4\u30be\u30f3",
+      "romaji": "Kyoukaisenjou no Horizon"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792344930,
+    "volumes": 6
+  },
+  "67785": {
+    "averageScore": 53,
+    "chapters": 18,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "id": 67785,
+    "idMal": 37785,
+    "popularity": 161,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30b9\u30ab\uff20\u672a\u6765\u7cfb",
+      "romaji": "Asuka @ Miraikei"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791656162,
+    "volumes": 3
+  },
+  "67789": {
+    "averageScore": null,
+    "chapters": 238,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 67789,
+    "idMal": 37789,
+    "popularity": 207,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5996\u7cbe\u56fd\u306e\u9a0e\u58eb",
+      "romaji": "Alfheim no Kishi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514166,
+    "volumes": 54
+  },
+  "67801": {
+    "averageScore": 56,
+    "chapters": 37,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "id": 67801,
+    "idMal": 37801,
+    "popularity": 499,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\uc0bc\ubd09\uc774\ubc1c\uc18c",
+      "romaji": "Sambong Barber Shop"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444865,
+    "volumes": 3
+  },
+  "67803": {
+    "averageScore": 57,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 67803,
+    "idMal": 37803,
+    "popularity": 178,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30aa\u30fc\u30eb\u30e2\u30b9\u30c8\u30fb\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "romaji": "Almost Paradise"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791823591,
+    "volumes": 1
+  },
+  "67807": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67807,
+    "idMal": 37807,
+    "popularity": 118,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3074\u3074\u308b\u9b54\u3063!",
+      "romaji": "Pipiruma!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514166,
+    "volumes": 1
+  },
+  "67815": {
+    "averageScore": 68,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "id": 67815,
+    "idMal": 37815,
+    "popularity": 1721,
+    "status": "RELEASING",
+    "title": {
+      "english": null,
+      "native": "MIX",
+      "romaji": "MIX"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792695771,
+    "volumes": null
+  },
+  "67817": {
+    "averageScore": 45,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 67817,
+    "idMal": 37817,
+    "popularity": 131,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u521d\u604b\u306f\u307e\u308b\u3067\u5203\u306e\u3088\u3046\u306b",
+      "romaji": "Hatsukoi wa Marude Yaiba no You ni"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444864,
+    "volumes": 1
+  },
+  "67821": {
+    "averageScore": 53,
+    "chapters": 16,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67821,
+    "idMal": 37821,
+    "popularity": 761,
+    "status": "FINISHED",
+    "title": {
+      "english": "Gakuen Polizi",
+      "native": "\u5b66\u5712\u30dd\u30ea\u30fc\u30c1\u30a7",
+      "romaji": "Gakuen Police"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792695771,
+    "volumes": 2
+  },
+  "67835": {
+    "averageScore": null,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "id": 67835,
+    "idMal": 37835,
+    "popularity": 161,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "100\u4e07\u30dd\u30f3\u30c9\u306e\u611b",
+      "romaji": "100-man Pound no Ai"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671936,
+    "volumes": 1
+  },
+  "67843": {
+    "averageScore": 55,
+    "chapters": 1,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67843,
+    "idMal": 37843,
+    "popularity": 160,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3054\u4e3b\u4eba\u69d8\u3001\u3042\u306e\u306d",
+      "romaji": "Goshujin-sama, ano ne"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791656160,
+    "volumes": null
+  },
+  "67847": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Action"
+    ],
+    "id": 67847,
+    "idMal": 37847,
+    "popularity": 38,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30ad\u30c3\u30c9",
+      "romaji": "Kid"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791656160,
+    "volumes": null
+  },
+  "67853": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "NOVEL",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67853,
+    "idMal": 37853,
+    "popularity": 142,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u306d\u304c\u3044\u30fb\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc\u2015\u307f\u305a\u307b\u3068\u6842\u306eMilky Diary",
+      "romaji": "Onegai Teacher: Mizuho to Kei no Milk Diary"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613803,
+    "volumes": 1
+  },
+  "67855": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "id": 67855,
+    "idMal": 37855,
+    "popularity": 26,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5371\u6a5f\u4e4b\u4ecb\u5fa1\u514d",
+      "romaji": "Kikinosuke Gomen"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613803,
+    "volumes": 3
+  },
+  "67859": {
+    "averageScore": null,
+    "chapters": 12,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy"
+    ],
+    "id": 67859,
+    "idMal": 37859,
+    "popularity": 26,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3060\u304b\u3089\u91d1\u7530\u306f\u604b\u304c\u3067\u304d\u306a\u3044",
+      "romaji": "Dakara Kaneda wa Koi ga Dekinai"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444863,
+    "volumes": 2
+  },
+  "67863": {
+    "averageScore": 51,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67863,
+    "idMal": 37863,
+    "popularity": 536,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30aa\u30c8\u30e1\u30c9\u30ea",
+      "romaji": "Otomedori"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514164,
+    "volumes": 1
+  },
+  "67867": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67867,
+    "idMal": 37867,
+    "popularity": 84,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a8\u30ed\u3042\u306d",
+      "romaji": "Ero Ane"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791561746,
+    "volumes": 1
+  },
+  "67871": {
+    "averageScore": 62,
+    "chapters": 39,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 67871,
+    "idMal": 37871,
+    "popularity": 938,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3053\u3082\u308c\u3073\u306e\u56fd ~le duch\u00e9",
+      "romaji": "Komorebi no Kuni"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671935,
+    "volumes": 4
+  },
+  "67873": {
+    "averageScore": 60,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "id": 67873,
+    "idMal": 37873,
+    "popularity": 473,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c7\u30a3\u30d5\u30a7\u30f3\u30b9\u3070\u304b\u308a\u306e\u604b\u3058\u3083\u30c0\u30e1!!",
+      "romaji": "Defense Bakari no Koi ja dame!!"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671935,
+    "volumes": null
+  },
+  "67885": {
+    "averageScore": 64,
+    "chapters": 86,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "id": 67885,
+    "idMal": 37885,
+    "popularity": 4693,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7121\u90aa\u6c17\u306e\u697d\u5712",
+      "romaji": "Mujaki no Rakuen"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671935,
+    "volumes": 12
+  },
+  "67891": {
+    "averageScore": 58,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 67891,
+    "idMal": 37891,
+    "popularity": 265,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u5343\u591c\u4e00\u591c\u30ed\u30de\u30cd\u30b9\u30af",
+      "romaji": "Senya Ichiya Romanesque"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089829,
+    "volumes": 1
+  },
+  "67897": {
+    "averageScore": 52,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "id": 67897,
+    "idMal": 37897,
+    "popularity": 262,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u82b1\u82b1\u904a\u9f8d",
+      "romaji": "Hua Hua You Long"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444859,
+    "volumes": 6
+  },
+  "67909": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action"
+    ],
+    "id": 67909,
+    "idMal": 37909,
+    "popularity": 166,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u306a\u3064\u304d\u30af\u30e9\u30a4\u30b7\u30b9",
+      "romaji": "Natsuki Crisis"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791824626,
+    "volumes": 18
+  },
+  "67913": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai",
+      "Romance"
+    ],
+    "id": 67913,
+    "idMal": null,
+    "popularity": 41,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u304a\u3068\u306a\u308a\u3055\u3093",
+      "romaji": "Otonari-san"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613802,
+    "volumes": null
+  },
+  "67915": {
+    "averageScore": 72,
+    "chapters": 84,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Supernatural"
+    ],
+    "id": 67915,
+    "idMal": 37915,
+    "popularity": 3861,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d2\u30c8\u30d2\u30c8\u30ea\u30d5\u30bf\u30ea",
+      "romaji": "Hito Hitori Futari"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792728137,
+    "volumes": 8
+  },
+  "67917": {
+    "averageScore": 61,
+    "chapters": 18,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "id": 67917,
+    "idMal": 37917,
+    "popularity": 1777,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30c0\u30f3\u30ac\u30f3\u30ed\u30f3\u30d1 \u5e0c\u671b\u306e\u5b66\u5712\u3068\u7d76\u671b\u306e\u9ad8\u6821\u751f",
+      "romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671935,
+    "volumes": 4
+  },
+  "67921": {
+    "averageScore": 59,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "id": 67921,
+    "idMal": 37921,
+    "popularity": 216,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u6e21\u4f1a\u304f\u3093\u5bb6\u306e\u5996\u602a\u3055\u3093",
+      "romaji": "Watarai-kun ke no Youkai-san"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444858,
+    "volumes": null
+  },
+  "67925": {
+    "averageScore": null,
+    "chapters": 8,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "id": 67925,
+    "idMal": 37925,
+    "popularity": 16,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u305d\u306e\u624b\u304c\u604b\u306b\u6c17\u3065\u304f\u307e\u3067",
+      "romaji": "Sono Te ga Koi ni Kizuku Made"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613801,
+    "volumes": 1
+  },
+  "67927": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "id": 67927,
+    "idMal": 37927,
+    "popularity": 23,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30ad\u30e4\u30de\u9999 \u9023\u4f5c\u77ed\u7de8\u96c6 \u30d6\u30e9\u30a6\u30f3\u30b7\u30e5\u30ac\u30fc",
+      "romaji": "Akiyama Kaori Tanpenshuu - Brown Sugar"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444858,
+    "volumes": 1
+  },
+  "67929": {
+    "averageScore": null,
+    "chapters": null,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67929,
+    "idMal": 37929,
+    "popularity": 17,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7406\u7cfb\u7537\u5b50\u3002\uff5e\u307c\u304f\u3089\u306e\u7406\u79d1\u5ba4\uff5e",
+      "romaji": "Rikei Danshi.: Bokura no Rikashitsu"
+    },
+    "type": "MANGA",
+    "updatedAt": 1790613801,
+    "volumes": 2
+  },
+  "67935": {
+    "averageScore": null,
+    "chapters": 9,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67935,
+    "idMal": 37935,
+    "popularity": 39,
+    "status": "FINISHED",
+    "title": {
+      "english": "Three P",
+      "native": "\u3055\u3093\u3074\u3043",
+      "romaji": "Sanpi"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791561738,
+    "volumes": 1
+  },
+  "67947": {
+    "averageScore": null,
+    "chapters": 10,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67947,
+    "idMal": 37947,
+    "popularity": 151,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d5\u30e9\u30ef\u30fc",
+      "romaji": "Flower"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792514158,
+    "volumes": 1
+  },
+  "67949": {
+    "averageScore": null,
+    "chapters": 1,
+    "episodes": null,
+    "format": "ONE_SHOT",
+    "genres": [
+      "Hentai"
+    ],
+    "id": 67949,
+    "idMal": null,
+    "popularity": 22,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3084\u307e\u3068\u306e\u6c17\u306b\u306a\u308b\u65e6\u90a3\u3055\u307e",
+      "romaji": "Yamato no Ki ni Naru Danna-sama"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791754257,
+    "volumes": null
+  },
+  "67951": {
+    "averageScore": null,
+    "chapters": 7,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [],
+    "id": 67951,
+    "idMal": 37951,
+    "popularity": 102,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u3044\u3058\u3081\u3066\u6b32\u3057\u3044\u306e?",
+      "romaji": "Ijimete Hoshii no?"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792089826,
+    "volumes": 1
+  },
+  "67953": {
+    "averageScore": 58,
+    "chapters": 3,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "id": 67953,
+    "idMal": 37953,
+    "popularity": 218,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "WILD WING",
+      "romaji": "Wild Wing"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444857,
+    "volumes": 1
+  },
+  "67959": {
+    "averageScore": null,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67959,
+    "idMal": 37959,
+    "popularity": 198,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u7948\u308a\u82b1",
+      "romaji": "Inoribana"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792344926,
+    "volumes": 1
+  },
+  "67963": {
+    "averageScore": 54,
+    "chapters": 4,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Romance"
+    ],
+    "id": 67963,
+    "idMal": 37963,
+    "popularity": 245,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u738b\u5b50\u3068\u653e\u8ab2\u5f8c",
+      "romaji": "Ouji to Houkago"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444857,
+    "volumes": 1
+  },
+  "67967": {
+    "averageScore": null,
+    "chapters": 5,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "id": 67967,
+    "idMal": 37967,
+    "popularity": 91,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u535a\u58eb\u306e\u4e0d\u53ef\u89e3\u306a\u591c\u5bb4",
+      "romaji": "Hakushi no Fukakai na Yaen"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444857,
+    "volumes": 1
+  },
+  "67975": {
+    "averageScore": 51,
+    "chapters": 11,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Horror",
+      "Psychological"
+    ],
+    "id": 67975,
+    "idMal": 37975,
+    "popularity": 1151,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a2\u30ce\u30ec\u30af\u30b7\u30a2~\u3057\u304b\u3070\u306d\u83ef\u5b50\u306f\u62d2\u98df\u75c7~",
+      "romaji": "Anorexia: Shikabane Hanako wa Kyoshokushou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792444857,
+    "volumes": 2
+  },
+  "67977": {
+    "averageScore": 55,
+    "chapters": 26,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "id": 67977,
+    "idMal": 37977,
+    "popularity": 520,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30d3\u30d6\u30ea\u30a2\u53e4\u66f8\u5802\u306e\u4e8b\u4ef6\u624b\u5e16",
+      "romaji": "Biblia Koshodou no Jiken Techou"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671934,
+    "volumes": 6
+  },
+  "67997": {
+    "averageScore": null,
+    "chapters": 6,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "id": 67997,
+    "idMal": 37997,
+    "popularity": 64,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30cd\u30b3\u30b8\u30bf\u30b9\u30d1\u30a4\u30ad\u30fc",
+      "romaji": "Nekojita Spiky"
+    },
+    "type": "MANGA",
+    "updatedAt": 1791476156,
+    "volumes": 1
+  },
+  "67999": {
+    "averageScore": 58,
+    "chapters": 35,
+    "episodes": null,
+    "format": "MANGA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sports"
+    ],
+    "id": 67999,
+    "idMal": 37999,
+    "popularity": 521,
+    "status": "FINISHED",
+    "title": {
+      "english": null,
+      "native": "\u30a4\u30ca\u30ba\u30de\u30a4\u30ec\u30d6\u30f3 GO",
+      "romaji": "Inazuma Eleven Go"
+    },
+    "type": "MANGA",
+    "updatedAt": 1792671933,
+    "volumes": 7
+  }
+}
