@@ -47,7 +47,7 @@ REQUEST_INTERVAL = 2.1         # seconds between requests (~28/min, under the 30
 MAX_ATTEMPTS = 3               # per request, for transient errors
 MAX_DELTA_PAGES = 100          # 100 x 50 = 5,000 = AniList's pagination depth cap
 DELTA_OVERLAP_SECONDS = 120    # re-read this much history to survive clock/ordering jitter
-REFRESH_REQUESTS_PER_RUN = 20  # rolling re-sweep budget per run once seeded (0 disables)
+REFRESH_REQUESTS_PER_RUN = 30  # rolling re-sweep budget per run once seeded (0 disables)
 HEARTBEAT_SECONDS = 3600       # when nothing changed, touch state/status at most hourly
 
 OUTAGE_ESCALATE_HOURS = float(os.environ.get("OUTAGE_ESCALATE_HOURS", "6"))  # 0 = never
@@ -414,8 +414,7 @@ class Syncer:
             # More than ~5,000 entries changed since the last run (long outage / downtime).
             # The delta cannot page any deeper, so the rolling refresh sweep heals the gap.
             print(f"[WARN] Delta hit the {MAX_DELTA_PAGES}-page depth cap before reaching the "
-                  "watermark; the rolling refresh sweep will fill the gap.")
-            state["refresh_last_id"] = 0
+                  "watermark (a bulk update on AniList?); the rolling refresh sweep fills the gap.")
         state["last_updated_at"] = newest
         print(f"[DELTA] {pages} page(s) read, new watermark {newest}")
 
@@ -487,4 +486,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-              
+      
