@@ -101,6 +101,5 @@ jobs:
               echo "Reached max loop duration (${ELAPSED}s); the next scheduled run continues."
               break
             fi
-            sleep "$PAUSE
-            "
+            sleep "$PAUSE"
           done
