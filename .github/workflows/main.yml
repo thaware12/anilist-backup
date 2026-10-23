@@ -2,7 +2,7 @@ name: AniList Incremental Backup
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '2-59/5 * * * *'
   workflow_dispatch:
 
 # One sync job at a time. A queued run waits for the running one instead of cancelling it.
@@ -33,18 +33,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Sync (loops only while seeding)
+      - name: Sync (runs for ~50 min, syncing every 5 min)
         shell: bash
         run: |
           set -u
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # While the first full seed is running: loop ~50 min (fast). Once seeded: ONE pass per
-          # cron run (about a minute), then the job ends and the next cron run does the next pass.
           MAX_DURATION="${MAX_DURATION:-3000}"
-          SLEEP_SEEDING="${SLEEP_SEEDING:-5}"     # seed still running: go again right away
-          SLEEP_OUTAGE="${SLEEP_OUTAGE:-120}"     # AniList/Cloudflare down: back off
+          SLEEP_SEEDING="${SLEEP_SEEDING:-5}"               # seed still running: go again right away
+          SLEEP_SYNC_INTERVAL="${SLEEP_SYNC_INTERVAL:-300}" # seeded: 1 pass every 300s (5 min)
+          SLEEP_OUTAGE="${SLEEP_OUTAGE:-120}"               # AniList/Cloudflare down: back off
           START_TIME=$(date +%s)
 
           stage_files() {
@@ -62,7 +61,7 @@ jobs:
               git push -q origin HEAD:main && return 0
               echo "::warning::push failed (attempt $attempt), re-basing onto origin/main"
               git fetch -q origin main || true
-              git reset -q --mixed origin/main || true   # keep our files, move base to remote
+              git reset -q --mixed origin/main || true
               stage_files
               git diff --staged --quiet && return 0
               git commit -q -m "chore(sync): automated data update"
@@ -71,6 +70,7 @@ jobs:
           }
 
           while true; do
+            CYCLE_START=$(date +%s)
             rc=0
             timeout 900 python sync.py || rc=$?
 
@@ -80,11 +80,17 @@ jobs:
             SEEDED=false
             if grep -q '"seed_complete": true' state.json; then SEEDED=true; fi
 
+            CYCLE_ELAPSED=$(( $(date +%s) - CYCLE_START ))
+
             case "$rc" in
-              0)  if [ "$SEEDED" = true ]; then echo "Sync pass finished."; break; fi
-                  PAUSE=$SLEEP_SEEDING ;;
+              0)  if [ "$SEEDED" = true ]; then
+                    PAUSE=$(( SLEEP_SYNC_INTERVAL - CYCLE_ELAPSED ))
+                    if [ "$PAUSE" -lt 10 ]; then PAUSE=10; fi
+                    echo "Sync pass finished in ${CYCLE_ELAPSED}s. Waiting ${PAUSE}s for next 5-min sync..."
+                  else
+                    PAUSE=$SLEEP_SEEDING
+                  fi ;;
               75) echo "::warning::AniList/Cloudflare outage - skipping this cycle, backup stays as-is"
-                  if [ "$SEEDED" = true ]; then break; fi
                   PAUSE=$SLEEP_OUTAGE ;;
               *)  echo "::error::sync.py failed with exit code $rc"
                   exit "$rc" ;;
@@ -95,6 +101,6 @@ jobs:
               echo "Reached max loop duration (${ELAPSED}s); the next scheduled run continues."
               break
             fi
-            sleep "$PAUSE"
-            
+            sleep "$PAUSE
+            "
           done
