@@ -30,68 +30,33 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Generate clean README.md
+      - name: Continuous Sync Loop
         run: |
-          if [ -f "README" ]; then
-            git rm -f README
-          fi
-          python - << 'EOF'
-          from pathlib import Path
-          content = """# 🗄️ AniList Automated Backup (`anilist-backup`)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Built With AI](https://img.shields.io/badge/Built%20With-AI-blueviolet.svg)
-![Sync Interval](https://img.shields.io/badge/Sync-Every%205%20Minutes-blue.svg)
-
-An automated, self-updating, public JSON mirror of the **AniList Anime & Manga catalog**, powered by GitHub Actions.
-
-Designed as a high-availability fallback dataset so developers, websites, Discord bots, and apps can continue reading Anime and Manga metadata even when the official AniList API (`graphql.anilist.co`) or Cloudflare is down.
-
-> 🤖 **AI-Generated Project:** This repository—including its sharded data architecture, GraphQL sync engine (`sync.py`), fault-tolerant GitHub Actions workflow, and documentation—was **created by AI** for [`@thaware12`](https://github.com/thaware12).
-> 
-> 🔓 **Free for Everyone (MIT License):** This project and all backed-up data structures are **100% free to use for everyone** (personal, open-source, or commercial projects) under the **MIT License**.
-
----
-
-## ✨ How It Works
-
-1. **Phase 1 — Initial Full Catalog Seed:** Fetches the entire AniList catalog in windows of 500 IDs (`id_in`) to stay safely under rate limits and pagination caps, pushing progress automatically.
-2. **Phase 2 — 5-Minute Incremental Delta Sync:** Queries `media(sort: UPDATED_AT_DESC)` every 5 minutes and updates **only the specific IDs that changed** since `last_updated_at`.
-3. **Outage Resilience:** If AniList or Cloudflare goes down (`HTTP 403`, `429`, `500-504`, etc.), the script exits cleanly without breaking your backup or spamming emails.
-
----
-
-## 📂 Sharded File Structure
-Entries are grouped into shards of **1,000 IDs** (`Math.floor(id / 1000)` padded to 4 digits):
-- `data/anime/shard_0000.json` → Anime IDs `1` to `999`
-- `data/manga/shard_0030.json` → Manga IDs `30000` to `30999`
-
----
-
-## 🚀 How to Use in Your Projects
-
-### JavaScript / TypeScript (Auto-Fallback When AniList Is Down)
-```javascript
-async function getMediaWithFallback(id, mediaType = 'anime') {
-  const shardId = String(Math.floor(id / 1000)).padStart(4, '0');
-  const backupUrl = `[https://cdn.jsdelivr.net/gh/thaware12/anilist-backup@main/data/$](https://cdn.jsdelivr.net/gh/thaware12/anilist-backup@main/data/$){mediaType.toLowerCase()}/shard_${shardId}.json`;
-
-  try {
-    const res = await fetch('[https://graphql.anilist.co](https://graphql.anilist.co)', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      body: JSON.stringify({
-        query: 'query ($id: Int) { Media(id: $id) { id idMal type format status updatedAt title { romaji english native } episodes chapters volumes averageScore popularity genres } }',
-        variables: { id: Number(id) },
-      }),
-      signal: AbortSignal.timeout(5000),
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const json = await res.json();
-    return { source: 'anilist-live', data: json.data.Media };
-  } catch (err) {
-    const backupRes = await fetch(backupUrl);
-    const shard = await backupRes.json();
-    return { source: 'github-backup', data: shard[String(id)] || null };
-  }
-}
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          START_TIME=$(date +%s)
+          MAX_DURATION=3000
+          
+          while true; do
+            NOW=$(date +%s)
+            if [ $((NOW - START_TIME)) -ge$MAX_DURATION ]; then
+              break
+            fi
+            
+            python sync.py
+            
+            git add -A data/ state.json || true
+            if ! git diff --staged --quiet; then
+              git commit -m "chore(sync): automated data update"
+              git pull --rebase origin main
+              git push origin main
+            fi
+            
+            SEED_DONE=$(python -c "import json; print(json.load(open('state.json')).get('seed_complete', False))")
+            if [ "$SEED_DONE" = "True" ]; then
+              sleep 300
+            else
+              sleep 5
+            fi
+          done
