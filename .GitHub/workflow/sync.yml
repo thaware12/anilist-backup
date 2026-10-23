@@ -1,0 +1,95 @@
+name: AniList Incremental Backup
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+# One sync job at a time. A queued run waits for the running one instead of cancelling it.
+concurrency:
+  group: anilist-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Continuous sync loop
+        shell: bash
+        run: |
+          set -u
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Loop for ~50 min; the next cron run takes over right after (see README).
+          MAX_DURATION="${MAX_DURATION:-3000}"
+          SLEEP_SEEDING="${SLEEP_SEEDING:-5}"     # seed still running: go again right away
+          SLEEP_IDLE="${SLEEP_IDLE:-300}"         # seed finished: one sync every 5 minutes
+          SLEEP_OUTAGE="${SLEEP_OUTAGE:-120}"     # AniList/Cloudflare down: back off
+          START_TIME=$(date +%s)
+
+          stage_files() {
+            rm -f data/*/*.tmp ./*.tmp
+            for path in data state.json status.json; do
+              if [ -e "$path" ]; then git add -A -- "$path"; fi
+            done
+          }
+
+          push_changes() {
+            stage_files
+            git diff --staged --quiet && return 0
+            git commit -q -m "chore(sync): automated data update"
+            for attempt in 1 2 3; do
+              git push -q origin HEAD:main && return 0
+              echo "::warning::push failed (attempt $attempt), re-basing onto origin/main"
+              git fetch -q origin main || true
+              git reset -q --mixed origin/main || true   # keep our files, move base to remote
+              stage_files
+              git diff --staged --quiet && return 0
+              git commit -q -m "chore(sync): automated data update"
+            done
+            return 1
+          }
+
+          while true; do
+            rc=0
+            timeout 900 python sync.py || rc=$?
+
+            # Always publish what was fetched, even when sync.py reported a problem.
+            push_changes || echo "::warning::could not push; will retry next cycle"
+
+            case "$rc" in
+              0)  if grep -q '"seed_complete": true' state.json; then PAUSE=$SLEEP_IDLE; else PAUSE=$SLEEP_SEEDING; fi ;;
+              75) echo "::warning::AniList/Cloudflare outage - skipping this cycle, backup stays as-is"
+                  PAUSE=$SLEEP_OUTAGE ;;
+              *)  echo "::error::sync.py failed with exit code $rc"
+                  exit "$rc" ;;
+            esac
+
+            ELAPSED=$(( $(date +%s) - START_TIME ))
+            if [ $(( ELAPSED + PAUSE )) -ge "$MAX_DURATION" ]; then
+              echo "Reached max loop duration (${ELAPSED}s); the next scheduled run continues."
+              break
+            fi
+            sleep "$PAUSE"
+          done
+          
