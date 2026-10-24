@@ -1,0 +1,127 @@
+name: AniList Incremental Backup
+
+on:
+  # GitHub's cron is best-effort (runs can start late or be dropped), so it is only a
+  # safety net: it restarts the chain if it ever breaks. The real 5-minute cadence comes
+  # from the job itself (see "Sync loop"). Odd minute on purpose: the top of the hour is busiest.
+  # To PAUSE the backup: Actions > this workflow > "..." > Disable workflow, then cancel the
+  # running AND the waiting run (a successor is queued while the current run is still going).
+  schedule:
+    - cron: '23 * * * *'
+  workflow_dispatch:
+
+# One sync job at a time. A queued run waits for the running one instead of cancelling it.
+concurrency:
+  group: anilist-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit the data
+  actions: write    # let the job queue its own successor
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: "1"
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Sync loop (one pass every 5 minutes for ~50 minutes, then hands over)
+        shell: bash
+        run: |
+          set -u
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          MAX_DURATION="${MAX_DURATION:-3000}"      # how long this job keeps looping (s)
+          SYNC_INTERVAL="${SYNC_INTERVAL:-300}"     # target time between passes once seeded (s)
+          SLEEP_SEEDING="${SLEEP_SEEDING:-5}"       # seed still running: go again right away
+          SLEEP_OUTAGE="${SLEEP_OUTAGE:-120}"       # AniList/Cloudflare down: back off
+
+          # Name of THIS workflow file (works whatever you call it): .../workflows/NAME@ref -> NAME
+          WORKFLOW_FILE="${GITHUB_WORKFLOW_REF#*/.github/workflows/}"
+          WORKFLOW_FILE="${WORKFLOW_FILE%%@*}"
+          START_TIME=$(date +%s)
+          QUEUED=false
+
+          queue_successor() {
+            if gh workflow run "$WORKFLOW_FILE" --ref "$GITHUB_REF_NAME"; then
+              QUEUED=true
+            else
+              echo "::warning::could not queue the next run; the hourly cron will restart it"
+            fi
+          }
+
+          stage_files() {
+            rm -f data/*/*.tmp ./*.tmp
+            for path in data state.json status.json; do
+              if [ -e "$path" ]; then git add -A -- "$path"; fi
+            done
+          }
+
+          push_changes() {
+            stage_files
+            git diff --staged --quiet && return 0
+            git commit -q -m "chore(sync): automated data update"
+            for attempt in 1 2 3; do
+              git push -q origin HEAD:main && return 0
+              echo "::warning::push failed (attempt $attempt), re-basing onto origin/main"
+              git fetch -q origin main || true
+              git reset -q --mixed origin/main || true   # keep our files, move base to remote
+              stage_files
+              git diff --staged --quiet && return 0
+              git commit -q -m "chore(sync): automated data update"
+            done
+            return 1
+          }
+
+          while true; do
+            PASS_START=$(date +%s)
+            rc=0
+            timeout 900 python sync.py || rc=$?
+
+            # Always publish what was fetched, even when sync.py reported a problem.
+            push_changes || echo "::warning::could not push; will retry next cycle"
+
+            case "$rc" in
+              0)  if grep -q '"seed_complete": true' state.json; then
+                    PAUSE=$(( SYNC_INTERVAL - ( $(date +%s) - PASS_START ) ))
+                    if [ "$PAUSE" -lt 5 ]; then PAUSE=5; fi
+                    echo "Sync pass finished in $(( $(date +%s) - PASS_START ))s. Next pass in ${PAUSE}s."
+                  else
+                    PAUSE=$SLEEP_SEEDING
+                  fi ;;
+              75) echo "::warning::AniList/Cloudflare outage - skipping this cycle, backup stays as-is"
+                  PAUSE=$SLEEP_OUTAGE ;;
+              *)  # Real bug: fail loudly. No successor is queued by a failing pass (a runaway
+                  # loop is impossible); the hourly cron restarts us.
+                  echo "::error::sync.py failed with exit code $rc"
+                  exit "$rc" ;;
+            esac
+
+            # After the FIRST healthy pass, queue the successor right away. It waits in line and
+            # starts the moment this run ends, even if this run crashes or is killed.
+            if [ "$QUEUED" = false ]; then queue_successor; fi
+
+            ELAPSED=$(( $(date +%s) - START_TIME ))
+            if [ $(( ELAPSED + PAUSE )) -ge "$MAX_DURATION" ]; then
+              echo "Loop time used up (${ELAPSED}s); the queued run takes over."
+              break
+            fi
+            sleep "$PAUSE"
+          done
