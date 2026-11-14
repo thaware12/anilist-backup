@@ -1,12 +1,12 @@
 {
-  "hot_last_run": 1794619205,
-  "last_success_at": 1794619955,
-  "last_updated_at": 1794619805,
-  "max_target_id": 219896,
+  "hot_last_run": 1794620219,
+  "last_success_at": 1794620356,
+  "last_updated_at": 1794619931,
+  "max_target_id": 219894,
   "outage_since": 0,
   "per_page": 50,
   "refresh_cycles": 12,
-  "refresh_last_id": 107761,
+  "refresh_last_id": 89695,
   "schema_version": 2,
   "seed_complete": true,
   "seed_last_id": 218739
